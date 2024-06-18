@@ -1,7 +1,7 @@
 
 ![ITT Wallpaper](/source/wallpaper_itt.png)
 
-# College_Projects
+# College Projects
 
 > This is a personal repository to store and search the projects I have done for the university.
 
