@@ -1,0 +1,12 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\bin\Debug\Practica1.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\bin\Debug\Practica1.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\bin\Debug\Practica1.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.Form1.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.FrmAnadirContacto.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 2\Practica1\obj\Debug\Practica1.frmModificarContacto.resources

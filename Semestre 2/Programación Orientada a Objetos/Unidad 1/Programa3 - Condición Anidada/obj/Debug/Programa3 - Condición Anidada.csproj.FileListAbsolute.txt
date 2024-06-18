@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\bin\Debug\Programa3 - Condición Anidada.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\bin\Debug\Programa3 - Condición Anidada.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\bin\Debug\Programa3 - Condición Anidada.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\obj\Debug\Programa3 - Condición Anidada.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\obj\Debug\Programa3 - Condición Anidada.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\obj\Debug\Programa3 - Condición Anidada.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\obj\Debug\Programa3 - Condición Anidada.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa3 - Condición Anidada\obj\Debug\Programa3 - Condición Anidada.pdb

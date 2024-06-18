@@ -1,0 +1,20 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Background Colors -->
+    <Color x:Key="NavBarBackColor1">#100335</Color>
+    <Color x:Key="NavBarBackColor2">#150935</Color>
+    <Color x:Key="ContentBackColor">#090121</Color>
+    <!-- Window Border Colors -->
+    <Color x:Key="WinBorderColor1">#289C8E</Color>
+    <Color x:Key="WinBorderColor2">#2FC4B2</Color>
+    <!-- Color Palette -->
+    <Color x:Key="Color1">#88DEB0</Color>
+    <Color x:Key="Color2">#C06378</Color>
+    <Color x:Key="Color3">#8B4E5E</Color>
+    <Color x:Key="Color4">#663845</Color>
+    <Color x:Key="Color5">#321E25</Color>
+    
+    <!-- Font Colors -->
+
+</ResourceDictionary>

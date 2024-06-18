@@ -1,0 +1,6 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\lbrVolumenes\bin\Debug\lbrVolumenes.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\lbrVolumenes\bin\Debug\lbrVolumenes.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\lbrVolumenes\obj\Debug\lbrVolumenes.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\lbrVolumenes\obj\Debug\lbrVolumenes.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\lbrVolumenes\obj\Debug\lbrVolumenes.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\lbrVolumenes\obj\Debug\lbrVolumenes.pdb

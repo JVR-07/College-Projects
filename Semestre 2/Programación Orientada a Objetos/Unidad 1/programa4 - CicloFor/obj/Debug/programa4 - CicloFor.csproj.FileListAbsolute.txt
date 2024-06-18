@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\bin\Debug\programa4 - CicloFor.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\bin\Debug\programa4 - CicloFor.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\bin\Debug\programa4 - CicloFor.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\obj\Debug\programa4 - CicloFor.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\obj\Debug\programa4 - CicloFor.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\obj\Debug\programa4 - CicloFor.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\obj\Debug\programa4 - CicloFor.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\programa4 - CicloFor\obj\Debug\programa4 - CicloFor.pdb

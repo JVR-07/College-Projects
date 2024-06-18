@@ -1,0 +1,11 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\bin\Debug\Modularidad.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\bin\Debug\Modularidad.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\bin\Debug\Modularidad.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.Form1.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Modularidad\Modularidad\obj\Debug\Modularidad.pdb

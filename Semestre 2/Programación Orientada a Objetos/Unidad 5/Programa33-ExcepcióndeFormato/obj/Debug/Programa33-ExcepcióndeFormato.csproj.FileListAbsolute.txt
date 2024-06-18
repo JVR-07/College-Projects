@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\bin\Debug\Programa33-ExcepcióndeFormato.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\bin\Debug\Programa33-ExcepcióndeFormato.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\bin\Debug\Programa33-ExcepcióndeFormato.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\obj\Debug\Programa33-ExcepcióndeFormato.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\obj\Debug\Programa33-ExcepcióndeFormato.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\obj\Debug\Programa33-ExcepcióndeFormato.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\obj\Debug\Programa33-ExcepcióndeFormato.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa33-ExcepcióndeFormato\obj\Debug\Programa33-ExcepcióndeFormato.pdb

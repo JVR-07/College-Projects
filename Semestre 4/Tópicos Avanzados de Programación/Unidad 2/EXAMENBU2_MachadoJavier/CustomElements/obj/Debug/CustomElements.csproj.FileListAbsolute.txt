@@ -1,0 +1,12 @@
+D:\JAVIER PC\Download\Temp\CustomButtons\bin\Debug\CustomButtons.dll
+D:\JAVIER PC\Download\Temp\CustomButtons\bin\Debug\CustomButtons.pdb
+D:\JAVIER PC\Download\Temp\CustomButtons\obj\Debug\CustomElements.csproj.AssemblyReference.cache
+D:\JAVIER PC\Download\Temp\CustomButtons\obj\Debug\CustomElements.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Download\Temp\CustomButtons\obj\Debug\CustomButtons.dll
+D:\JAVIER PC\Download\Temp\CustomButtons\obj\Debug\CustomButtons.pdb
+D:\JAVIER PC\Download\Temp\Practica5_MachadoJavier\CustomElements\bin\Debug\CustomButtons.dll
+D:\JAVIER PC\Download\Temp\Practica5_MachadoJavier\CustomElements\bin\Debug\CustomButtons.pdb
+D:\JAVIER PC\Download\Temp\Practica5_MachadoJavier\CustomElements\obj\Debug\CustomElements.csproj.AssemblyReference.cache
+D:\JAVIER PC\Download\Temp\Practica5_MachadoJavier\CustomElements\obj\Debug\CustomElements.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Download\Temp\Practica5_MachadoJavier\CustomElements\obj\Debug\CustomButtons.dll
+D:\JAVIER PC\Download\Temp\Practica5_MachadoJavier\CustomElements\obj\Debug\CustomButtons.pdb

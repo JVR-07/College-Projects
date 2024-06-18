@@ -1,0 +1,15 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\bin\Debug\Ejemplo_clase.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\bin\Debug\Ejemplo_clase.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\bin\Debug\Ejemplo_clase.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\bin\Debug\Ejemplo_clase.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\bin\Debug\Ejemplo_clase.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\bin\Debug\Ejemplo_clase.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\Ejemplo_clase\obj\Debug\Ejemplo_clase.pdb

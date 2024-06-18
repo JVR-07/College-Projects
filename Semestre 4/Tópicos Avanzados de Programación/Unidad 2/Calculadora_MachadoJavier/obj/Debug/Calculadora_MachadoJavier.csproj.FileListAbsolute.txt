@@ -1,0 +1,7 @@
+E:\Topicos Avanzados\Calculadora_MachadoJavier\bin\Debug\Calculadora_MachadoJavier.exe.config
+E:\Topicos Avanzados\Calculadora_MachadoJavier\bin\Debug\Calculadora_MachadoJavier.exe
+E:\Topicos Avanzados\Calculadora_MachadoJavier\bin\Debug\Calculadora_MachadoJavier.pdb
+E:\Topicos Avanzados\Calculadora_MachadoJavier\obj\Debug\Calculadora_MachadoJavier.csproj.AssemblyReference.cache
+E:\Topicos Avanzados\Calculadora_MachadoJavier\obj\Debug\Calculadora_MachadoJavier.csproj.CoreCompileInputs.cache
+E:\Topicos Avanzados\Calculadora_MachadoJavier\obj\Debug\Calculadora_MachadoJavier.exe
+E:\Topicos Avanzados\Calculadora_MachadoJavier\obj\Debug\Calculadora_MachadoJavier.pdb

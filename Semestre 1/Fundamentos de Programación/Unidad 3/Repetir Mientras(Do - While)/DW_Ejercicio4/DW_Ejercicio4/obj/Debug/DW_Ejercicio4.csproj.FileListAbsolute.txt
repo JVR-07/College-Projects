@@ -1,0 +1,24 @@
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\bin\Debug\DW_Ejercicio4.exe.config
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\bin\Debug\DW_Ejercicio4.exe
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\bin\Debug\DW_Ejercicio4.pdb
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.frmMiForma.resources
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.frmDatos.resources
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.Properties.Resources.resources
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.GenerateResource.cache
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.exe
+C:\Users\Javier PC\Downloads\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\bin\Debug\DW_Ejercicio4.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\bin\Debug\DW_Ejercicio4.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\bin\Debug\DW_Ejercicio4.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.frmMiForma.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.frmDatos.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Mientras(Do - While)\DW_Ejercicio4\DW_Ejercicio4\obj\Debug\DW_Ejercicio4.pdb

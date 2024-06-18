@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\bin\Debug\Programa40-PracticaArchivoTextoFlujoBytes.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\bin\Debug\Programa40-PracticaArchivoTextoFlujoBytes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\bin\Debug\Programa40-PracticaArchivoTextoFlujoBytes.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\obj\Debug\Programa40-PracticaArchivoTextoFlujoBytes.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\obj\Debug\Programa40-PracticaArchivoTextoFlujoBytes.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\obj\Debug\Programa40-PracticaArchivoTextoFlujoBytes.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\obj\Debug\Programa40-PracticaArchivoTextoFlujoBytes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa40-PracticaArchivoTextoFlujoBytes\obj\Debug\Programa40-PracticaArchivoTextoFlujoBytes.pdb

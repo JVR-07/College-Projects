@@ -1,0 +1,31 @@
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\bin\Debug\Carrera.exe.config
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\bin\Debug\Carrera.exe
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\bin\Debug\Carrera.pdb
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.csproj.AssemblyReference.cache
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.Form1.resources
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.exe
+C:\Users\josem\Desktop\Proyecto Topicos\Carrera\Carrera\obj\Debug\Carrera.pdb
+D:\JAVIER PC\Download\Carrera\Carrera\bin\Debug\Carrera.exe.config
+D:\JAVIER PC\Download\Carrera\Carrera\bin\Debug\Carrera.exe
+D:\JAVIER PC\Download\Carrera\Carrera\bin\Debug\Carrera.pdb
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.csproj.AssemblyReference.cache
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.Form1.resources
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.exe
+D:\JAVIER PC\Download\Carrera\Carrera\obj\Debug\Carrera.pdb
+D:\Downloads\CarreraOriginal\Carrera\Carrera\bin\Debug\Carrera.exe.config
+D:\Downloads\CarreraOriginal\Carrera\Carrera\bin\Debug\Carrera.exe
+D:\Downloads\CarreraOriginal\Carrera\Carrera\bin\Debug\Carrera.pdb
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.csproj.AssemblyReference.cache
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.Form1.resources
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.exe
+D:\Downloads\CarreraOriginal\Carrera\Carrera\obj\Debug\Carrera.pdb

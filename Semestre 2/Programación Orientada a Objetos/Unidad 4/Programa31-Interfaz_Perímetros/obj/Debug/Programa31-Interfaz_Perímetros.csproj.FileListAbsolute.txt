@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\bin\Debug\Programa31-Interfaz_Perímetros.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\bin\Debug\Programa31-Interfaz_Perímetros.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\bin\Debug\Programa31-Interfaz_Perímetros.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\obj\Debug\Programa31-Interfaz_Perímetros.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\obj\Debug\Programa31-Interfaz_Perímetros.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\obj\Debug\Programa31-Interfaz_Perímetros.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\obj\Debug\Programa31-Interfaz_Perímetros.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa31-Interfaz_Perímetros\obj\Debug\Programa31-Interfaz_Perímetros.pdb

@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\bin\Debug\P27 Lista Enlazada Simple Edades.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\bin\Debug\P27 Lista Enlazada Simple Edades.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\bin\Debug\P27 Lista Enlazada Simple Edades.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\obj\Debug\P27 Lista Enlazada Simple Edades.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\obj\Debug\P27 Lista Enlazada Simple Edades.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\obj\Debug\P27 Lista Enlazada Simple Edades.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\obj\Debug\P27 Lista Enlazada Simple Edades.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P27 Lista Enlazada Simple Edades\obj\Debug\P27 Lista Enlazada Simple Edades.pdb

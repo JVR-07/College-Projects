@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\bin\Debug\Programa5 - Ciclo While.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\bin\Debug\Programa5 - Ciclo While.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\bin\Debug\Programa5 - Ciclo While.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\obj\Debug\Programa5 - Ciclo While.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\obj\Debug\Programa5 - Ciclo While.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\obj\Debug\Programa5 - Ciclo While.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\obj\Debug\Programa5 - Ciclo While.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa5 - Ciclo While\obj\Debug\Programa5 - Ciclo While.pdb

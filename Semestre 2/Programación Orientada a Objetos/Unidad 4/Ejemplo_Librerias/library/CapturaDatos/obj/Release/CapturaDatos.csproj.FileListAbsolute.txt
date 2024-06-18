@@ -1,0 +1,6 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\CapturaDatos\bin\Release\CapturaDatos.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\CapturaDatos\bin\Release\CapturaDatos.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\CapturaDatos\obj\Release\CapturaDatos.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\CapturaDatos\obj\Release\CapturaDatos.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\CapturaDatos\obj\Release\CapturaDatos.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\CapturaDatos\obj\Release\CapturaDatos.pdb

@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\bin\Debug\Programa24 - Redefinición_Métodos.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\bin\Debug\Programa24 - Redefinición_Métodos.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\bin\Debug\Programa24 - Redefinición_Métodos.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\obj\Debug\Programa24 - Redefinición_Métodos.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\obj\Debug\Programa24 - Redefinición_Métodos.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\obj\Debug\Programa24 - Redefinición_Métodos.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\obj\Debug\Programa24 - Redefinición_Métodos.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa24 - Redefinición_Métodos\obj\Debug\Programa24 - Redefinición_Métodos.pdb

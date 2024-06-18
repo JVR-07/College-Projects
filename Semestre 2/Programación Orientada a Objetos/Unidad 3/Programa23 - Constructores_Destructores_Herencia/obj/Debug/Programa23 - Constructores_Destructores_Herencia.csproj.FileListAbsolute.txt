@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\bin\Debug\Programa23 - Constructores_Destructores_Herencia.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\bin\Debug\Programa23 - Constructores_Destructores_Herencia.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\bin\Debug\Programa23 - Constructores_Destructores_Herencia.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\obj\Debug\Programa23 - Constructores_Destructores_Herencia.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\obj\Debug\Programa23 - Constructores_Destructores_Herencia.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\obj\Debug\Programa23 - Constructores_Destructores_Herencia.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\obj\Debug\Programa23 - Constructores_Destructores_Herencia.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa23 - Constructores_Destructores_Herencia\obj\Debug\Programa23 - Constructores_Destructores_Herencia.pdb

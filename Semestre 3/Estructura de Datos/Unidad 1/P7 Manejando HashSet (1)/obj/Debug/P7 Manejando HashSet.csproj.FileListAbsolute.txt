@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\bin\Debug\P7 Manejando HashSet.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\bin\Debug\P7 Manejando HashSet.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\bin\Debug\P7 Manejando HashSet.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\obj\Debug\P7 Manejando HashSet.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\obj\Debug\P7 Manejando HashSet.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\obj\Debug\P7 Manejando HashSet.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\obj\Debug\P7 Manejando HashSet.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P7 Manejando HashSet\obj\Debug\P7 Manejando HashSet.pdb

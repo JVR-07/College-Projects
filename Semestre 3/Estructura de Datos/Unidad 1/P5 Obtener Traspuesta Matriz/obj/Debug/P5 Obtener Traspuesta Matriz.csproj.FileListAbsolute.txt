@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\bin\Debug\P5 Obtener Traspuesta Matriz.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\bin\Debug\P5 Obtener Traspuesta Matriz.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\bin\Debug\P5 Obtener Traspuesta Matriz.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\obj\Debug\P5 Obtener Traspuesta Matriz.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\obj\Debug\P5 Obtener Traspuesta Matriz.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\obj\Debug\P5 Obtener Traspuesta Matriz.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\obj\Debug\P5 Obtener Traspuesta Matriz.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P5 Obtener Traspuesta Matriz\obj\Debug\P5 Obtener Traspuesta Matriz.pdb

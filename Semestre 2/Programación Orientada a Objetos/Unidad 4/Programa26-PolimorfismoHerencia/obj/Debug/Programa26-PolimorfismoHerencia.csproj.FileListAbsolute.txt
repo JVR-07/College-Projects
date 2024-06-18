@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\bin\Debug\Programa26-PolimorfismoHerencia.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\bin\Debug\Programa26-PolimorfismoHerencia.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\bin\Debug\Programa26-PolimorfismoHerencia.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\obj\Debug\Programa26-PolimorfismoHerencia.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\obj\Debug\Programa26-PolimorfismoHerencia.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\obj\Debug\Programa26-PolimorfismoHerencia.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\obj\Debug\Programa26-PolimorfismoHerencia.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa26-PolimorfismoHerencia\obj\Debug\Programa26-PolimorfismoHerencia.pdb

@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\bin\Debug\P26 Colas Dinamicas Empleados.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\bin\Debug\P26 Colas Dinamicas Empleados.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\bin\Debug\P26 Colas Dinamicas Empleados.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\obj\Debug\P26 Colas Dinamicas Empleados.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\obj\Debug\P26 Colas Dinamicas Empleados.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\obj\Debug\P26 Colas Dinamicas Empleados.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\obj\Debug\P26 Colas Dinamicas Empleados.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P26 Colas Dinamicas Empleados\obj\Debug\P26 Colas Dinamicas Empleados.pdb

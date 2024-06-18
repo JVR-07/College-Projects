@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa11 - Arreglos Bidimensionales", "Programa11 - Arreglos Bidimensionales.csproj", "{7D25BB3D-06EB-4889-9D20-346E9C781173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D25BB3D-06EB-4889-9D20-346E9C781173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D25BB3D-06EB-4889-9D20-346E9C781173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D25BB3D-06EB-4889-9D20-346E9C781173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D25BB3D-06EB-4889-9D20-346E9C781173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CCC19D9-4E0F-4E59-A792-A3DE5855BED8}
+	EndGlobalSection
+EndGlobal

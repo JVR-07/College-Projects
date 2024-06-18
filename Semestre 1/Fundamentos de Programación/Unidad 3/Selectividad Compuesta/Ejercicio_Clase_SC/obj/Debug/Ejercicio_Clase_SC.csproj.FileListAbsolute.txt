@@ -1,0 +1,16 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\bin\Debug\Ejercicio_Clase_SC.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\bin\Debug\Ejercicio_Clase_SC.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\bin\Debug\Ejercicio_Clase_SC.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.pdb
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\bin\Debug\Ejercicio_Clase_SC.exe.config
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\bin\Debug\Ejercicio_Clase_SC.exe
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\bin\Debug\Ejercicio_Clase_SC.pdb
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.csproj.AssemblyReference.cache
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.csproj.SuggestedBindingRedirects.cache
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.csproj.CoreCompileInputs.cache
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.exe
+C:\Users\TecNM-ITT-DSC\Downloads\Selectividad Compuesta\Ejercicio_Clase_SC\obj\Debug\Ejercicio_Clase_SC.pdb

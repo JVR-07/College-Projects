@@ -1,0 +1,8 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\bin\Debug\Ejemplo_Polimorfismo.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\bin\Debug\Ejemplo_Polimorfismo.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\bin\Debug\Ejemplo_Polimorfismo.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\obj\Debug\Ejemplo_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\obj\Debug\Ejemplo_Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\obj\Debug\Ejemplo_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\obj\Debug\Ejemplo_Polimorfismo.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U4\Ejemplos\Ejemplo_Polimorfismo\obj\Debug\Ejemplo_Polimorfismo.pdb

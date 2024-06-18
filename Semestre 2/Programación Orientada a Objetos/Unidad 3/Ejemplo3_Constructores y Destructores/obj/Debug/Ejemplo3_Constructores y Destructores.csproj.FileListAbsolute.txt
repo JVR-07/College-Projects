@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\bin\Debug\Ejemplo3_Constructores y Destructores.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\bin\Debug\Ejemplo3_Constructores y Destructores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\bin\Debug\Ejemplo3_Constructores y Destructores.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\obj\Debug\Ejemplo3_Constructores y Destructores.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\obj\Debug\Ejemplo3_Constructores y Destructores.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\obj\Debug\Ejemplo3_Constructores y Destructores.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\obj\Debug\Ejemplo3_Constructores y Destructores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo3_Constructores y Destructores\obj\Debug\Ejemplo3_Constructores y Destructores.pdb

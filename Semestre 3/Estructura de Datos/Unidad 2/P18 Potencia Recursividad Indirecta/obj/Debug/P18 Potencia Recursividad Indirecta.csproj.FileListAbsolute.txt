@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\bin\Debug\P18 Potencia Recursividad Indirecta.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\bin\Debug\P18 Potencia Recursividad Indirecta.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\bin\Debug\P18 Potencia Recursividad Indirecta.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\obj\Debug\P18 Potencia Recursividad Indirecta.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\obj\Debug\P18 Potencia Recursividad Indirecta.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\obj\Debug\P18 Potencia Recursividad Indirecta.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\obj\Debug\P18 Potencia Recursividad Indirecta.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P18 Potencia Recursividad Indirecta\obj\Debug\P18 Potencia Recursividad Indirecta.pdb

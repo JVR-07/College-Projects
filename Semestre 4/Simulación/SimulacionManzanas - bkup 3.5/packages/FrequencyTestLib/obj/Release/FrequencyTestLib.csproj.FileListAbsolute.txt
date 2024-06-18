@@ -1,0 +1,31 @@
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\bin\Release\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\bin\Release\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\bin\Release\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\bin\Release\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\obj\Release\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\FrequencyTestLib\obj\Release\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\bin\Release\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\bin\Release\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\bin\Release\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\bin\Release\System.ValueTuple.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\bin\Release\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\bin\Release\System.ValueTuple.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\bin\Release\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\bin\Release\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\bin\Release\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\bin\Release\System.ValueTuple.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\bin\Release\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\bin\Release\System.ValueTuple.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\FrequencyTestLib\obj\Release\FrequencyTestLib.pdb

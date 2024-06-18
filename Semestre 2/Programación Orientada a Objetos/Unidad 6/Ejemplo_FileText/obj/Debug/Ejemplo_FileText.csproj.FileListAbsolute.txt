@@ -1,0 +1,8 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\bin\Debug\Ejemplo_FileText.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\bin\Debug\Ejemplo_FileText.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\bin\Debug\Ejemplo_FileText.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\obj\Debug\Ejemplo_FileText.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\obj\Debug\Ejemplo_FileText.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\obj\Debug\Ejemplo_FileText.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\obj\Debug\Ejemplo_FileText.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_FileText\obj\Debug\Ejemplo_FileText.pdb

@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\bin\Debug\Programa30-ClaseAbstracta_Perímetros.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\bin\Debug\Programa30-ClaseAbstracta_Perímetros.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\bin\Debug\Programa30-ClaseAbstracta_Perímetros.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\obj\Debug\Programa30-ClaseAbstracta_Perímetros.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\obj\Debug\Programa30-ClaseAbstracta_Perímetros.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\obj\Debug\Programa30-ClaseAbstracta_Perímetros.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\obj\Debug\Programa30-ClaseAbstracta_Perímetros.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa30-ClaseAbstracta_Perímetros\obj\Debug\Programa30-ClaseAbstracta_Perímetros.pdb

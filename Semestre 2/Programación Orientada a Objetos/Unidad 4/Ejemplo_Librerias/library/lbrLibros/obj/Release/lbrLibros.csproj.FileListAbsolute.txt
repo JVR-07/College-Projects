@@ -1,0 +1,6 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\lbrLibros\bin\Release\lbrLibros.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\lbrLibros\bin\Release\lbrLibros.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\lbrLibros\obj\Release\lbrLibros.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\lbrLibros\obj\Release\lbrLibros.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\lbrLibros\obj\Release\lbrLibros.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\lbrLibros\obj\Release\lbrLibros.pdb

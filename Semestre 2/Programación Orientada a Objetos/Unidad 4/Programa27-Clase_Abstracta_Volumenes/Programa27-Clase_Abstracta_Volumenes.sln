@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa27-Clase_Abstracta_Volumenes", "Programa27-Clase_Abstracta_Volumenes.csproj", "{31B9F407-06A5-4DFB-B95D-76E0E2473184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B9F407-06A5-4DFB-B95D-76E0E2473184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B9F407-06A5-4DFB-B95D-76E0E2473184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B9F407-06A5-4DFB-B95D-76E0E2473184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B9F407-06A5-4DFB-B95D-76E0E2473184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F9546F7-C79E-4C2D-92B5-65ADE0AD6BB4}
+	EndGlobalSection
+EndGlobal

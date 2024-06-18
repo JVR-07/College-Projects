@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\bin\Debug\Programa11 - Arreglos Bidimensionales.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\bin\Debug\Programa11 - Arreglos Bidimensionales.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\bin\Debug\Programa11 - Arreglos Bidimensionales.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\obj\Debug\Programa11 - Arreglos Bidimensionales.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\obj\Debug\Programa11 - Arreglos Bidimensionales.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\obj\Debug\Programa11 - Arreglos Bidimensionales.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\obj\Debug\Programa11 - Arreglos Bidimensionales.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa11 - Arreglos Bidimensionales\obj\Debug\Programa11 - Arreglos Bidimensionales.pdb

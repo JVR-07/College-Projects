@@ -1,0 +1,22 @@
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\bin\Debug\Ejemplo_Clase_SA.exe.config
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\bin\Debug\Ejemplo_Clase_SA.exe
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\bin\Debug\Ejemplo_Clase_SA.pdb
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.AssemblyReference.cache
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.SuggestedBindingRedirects.cache
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.Form1.resources
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.Properties.Resources.resources
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.GenerateResource.cache
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.CoreCompileInputs.cache
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.exe
+C:\Users\TECNM-ITT\Downloads\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\bin\Debug\Ejemplo_Clase_SA.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\bin\Debug\Ejemplo_Clase_SA.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\bin\Debug\Ejemplo_Clase_SA.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.Form1.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Anidada\Ejemplo_Clase_SA\Ejemplo_Clase_SA\obj\Debug\Ejemplo_Clase_SA.pdb

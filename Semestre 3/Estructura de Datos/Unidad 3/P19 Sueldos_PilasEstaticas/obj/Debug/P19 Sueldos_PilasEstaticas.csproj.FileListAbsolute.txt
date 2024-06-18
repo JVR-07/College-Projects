@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\bin\Debug\P19 Sueldos_PilasEstaticas.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\bin\Debug\P19 Sueldos_PilasEstaticas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\bin\Debug\P19 Sueldos_PilasEstaticas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\obj\Debug\P19 Sueldos_PilasEstaticas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\obj\Debug\P19 Sueldos_PilasEstaticas.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\obj\Debug\P19 Sueldos_PilasEstaticas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\obj\Debug\P19 Sueldos_PilasEstaticas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P19 Sueldos_PilasEstaticas\obj\Debug\P19 Sueldos_PilasEstaticas.pdb

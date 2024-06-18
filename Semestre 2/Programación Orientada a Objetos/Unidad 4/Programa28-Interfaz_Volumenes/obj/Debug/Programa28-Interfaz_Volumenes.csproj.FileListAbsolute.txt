@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\bin\Debug\Programa28-Interfaz_Volumenes.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\bin\Debug\Programa28-Interfaz_Volumenes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\bin\Debug\Programa28-Interfaz_Volumenes.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\obj\Debug\Programa28-Interfaz_Volumenes.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\obj\Debug\Programa28-Interfaz_Volumenes.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\obj\Debug\Programa28-Interfaz_Volumenes.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\obj\Debug\Programa28-Interfaz_Volumenes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Programa28-Interfaz_Volumenes\obj\Debug\Programa28-Interfaz_Volumenes.pdb

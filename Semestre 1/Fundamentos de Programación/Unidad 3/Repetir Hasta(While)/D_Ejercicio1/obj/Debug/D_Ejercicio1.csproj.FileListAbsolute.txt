@@ -1,0 +1,8 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\bin\Debug\D_Ejercicio1.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\bin\Debug\D_Ejercicio1.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\bin\Debug\D_Ejercicio1.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\obj\Debug\D_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\obj\Debug\D_Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\obj\Debug\D_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\obj\Debug\D_Ejercicio1.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Repetir Hasta(While)\D_Ejercicio1\obj\Debug\D_Ejercicio1.pdb

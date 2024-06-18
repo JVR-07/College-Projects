@@ -1,0 +1,11 @@
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\bin\Debug\DW_Ejercicio3(3).exe.config
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\bin\Debug\DW_Ejercicio3(3).exe
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\bin\Debug\DW_Ejercicio3(3).pdb
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3(3).csproj.AssemblyReference.cache
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3(3).csproj.SuggestedBindingRedirects.cache
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3_3_.Properties.Resources.resources
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3(3).csproj.GenerateResource.cache
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3(3).csproj.CoreCompileInputs.cache
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3(3).exe
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3(3).pdb
+C:\Users\TECNM-ITT\Documents\DW_Ejercicio3(3)\DW_Ejercicio3(3)\obj\Debug\DW_Ejercicio3_3_.frmMiforma.resources

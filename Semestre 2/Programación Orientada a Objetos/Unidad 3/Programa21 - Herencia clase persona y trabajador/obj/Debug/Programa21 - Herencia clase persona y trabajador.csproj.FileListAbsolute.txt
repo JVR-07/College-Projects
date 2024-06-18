@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\bin\Debug\Programa21 - Herencia clase persona y trabajador.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\bin\Debug\Programa21 - Herencia clase persona y trabajador.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\bin\Debug\Programa21 - Herencia clase persona y trabajador.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\obj\Debug\Programa21 - Herencia clase persona y trabajador.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\obj\Debug\Programa21 - Herencia clase persona y trabajador.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\obj\Debug\Programa21 - Herencia clase persona y trabajador.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\obj\Debug\Programa21 - Herencia clase persona y trabajador.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa21 - Herencia clase persona y trabajador\obj\Debug\Programa21 - Herencia clase persona y trabajador.pdb

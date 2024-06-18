@@ -1,0 +1,217 @@
+﻿<UserControl x:Class="SimulacionManzanas.UserControls.HelpPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SimulacionManzanas.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="630" d:DesignWidth="1046">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0"
+                   Style="{StaticResource HomeText}"
+                   HorizontalAlignment="Center"
+                   Margin="0">
+            Menú de Ayuda
+        </TextBlock>
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    Grid.Row="1">
+            <RadioButton x:Name="BtnApproach"
+                         Style="{StaticResource HelpMenuButton}" 
+                         Tag="{StaticResource Color1}" 
+                         Cursor="Hand"
+                         Click="BtnApproach_Click">
+                <TextBlock Text="Planteamiento" 
+                           FontSize="25"/>
+            </RadioButton>
+
+            <RadioButton x:Name="BtnGenerator"
+                         Style="{StaticResource HelpMenuButton}" 
+                         Tag="{StaticResource Color1}" 
+                         Cursor="Hand"
+                         Click="BtnGenerator_Click">
+                <TextBlock Text="Generador" 
+                           FontSize="25"/>
+            </RadioButton>
+
+            <RadioButton 
+             Style="{StaticResource HelpMenuButton}" 
+             Tag="{StaticResource Color1}" 
+             Cursor="Hand">
+                <TextBlock Text="Frecuencias" 
+               FontSize="25"/>
+            </RadioButton>
+
+            <RadioButton 
+             Style="{StaticResource HelpMenuButton}" 
+             Tag="{StaticResource Color1}" 
+             Cursor="Hand">
+                <TextBlock Text="Series" 
+               FontSize="25"/>
+            </RadioButton>
+
+            <RadioButton x:Name="BtnAboutUs" 
+                         Style="{StaticResource HelpMenuButton}" 
+                         Tag="{StaticResource Color1}" 
+                         Cursor="Hand"
+                         Click="BtnAboutUs_Click">
+                <TextBlock Text="Acerca de" 
+                           FontSize="25"/>
+            </RadioButton>
+        </StackPanel>
+
+        <DockPanel x:Name="PnlApproach"
+                   Grid.Row="2"
+                   Visibility="Hidden">
+            <TextBlock Foreground="White"
+                       FontSize="15"
+                       TextWrapping="Wrap"
+                       DockPanel.Dock="Top">
+                Un comerciante tiene en su bodega 100 cajas de manzanas, el precio normal
+                de cada caja es de $150.00. Debido al intenso frío, la producción de esta
+                fruta ha disminuido notablemente, por lo que el precio en el mercado ha subido
+                en un 30% de lo normal. De continuar este clima durante 2 semanas, el precio
+                podría subir hasta un 70%. En caso de que mejore el clima, el precio bajaría en
+                un 10% de su precio normal.<LineBreak/>
+                El problema del comerciante, consiste en determinar qué política de ventas
+                debería tomar para maximizar sus ganancias:<LineBreak/>
+                1. Vender toda su mercancía en este momento con una ganancia segura del 30%. <LineBreak/>
+                2. Esperar dos semanas con la posibilidad de obtener una ganancia del 70% si el
+                clima no mejora, y la posibilidad de tener una pérdida del 10% si el clima mejora. <LineBreak/><LineBreak/>
+                Para tomar su decisión, el comerciante desea saber la duración del clima
+                frío durante los 50 años anteriores.<LineBreak/> <LineBreak/>
+                Si el clima frío ha durado menos de dos semanas en el 45% de los años, entonces 
+                se implementará la política 1. En caso contrario, implementará la política 2. <LineBreak/> <LineBreak/>
+                En caso de implementar la política 2, simule la duración del clima frío
+                para este año, y determine a qué precio deberá vender su producto el comerciante. <LineBreak/> <LineBreak/>
+                De acuerdo a estadísticas, la duración del clima frío ha tenido la siguiente
+                distribución de probabilidad: <LineBreak/>
+            </TextBlock>
+            <StackPanel>
+                <Image Source="/Icons/Probability.png"
+                       Height="250"/>
+            </StackPanel>
+        </DockPanel>
+
+        <DockPanel x:Name="PnlGenerator"
+                   Grid.Row="2" 
+                   Visibility="Hidden">
+            <TextBlock Foreground="White"
+                       FontSize="20"
+                       TextWrapping="Wrap"
+                       DockPanel.Dock="Top">
+                Los números pseudoaleatorios son números comprendidos entre 0 y 1 que no siguen una secuencia o patrón específico, no obstante,
+                presentan una fuenta o semilla por medio de la cual es posible reproducir el conjunto de números. <LineBreak/>
+                Dentro de las matemáticas, existen distintos métodos para obtener números pseudoaleatorios. Para este programa se hace uso 
+                del <Bold><Italic>Método Congruencial Mixto</Italic></Bold>. <LineBreak/> <LineBreak/>
+                A continuación se muestra la formula y el glosario del método. <LineBreak/>
+            </TextBlock>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="1">
+                    <StackPanel DockPanel.Dock="Top">
+                        <TextBlock Style="{StaticResource HomeText}" 
+                                   TextAlignment="Center" 
+                                   Margin="0">
+                            Glosario
+                        </TextBlock>
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Center"
+                                HorizontalAlignment="Center">
+                        <TextBlock Style="{StaticResource HomeText}" 
+                                   FontSize="25" 
+                                   Margin="0">
+                            A = Constante Multiplicativa<LineBreak/>
+                            C = Constante Aditiva<LineBreak/>
+                            X&#8345; = Semilla <LineBreak/>
+                            M = Módulo<LineBreak/>
+                            R&#8345; = Número pseudoaleatorio<LineBreak/>
+                            n = Cantidad de números
+                        </TextBlock>
+                    </StackPanel>
+                </DockPanel>
+                <DockPanel Grid.Column="0" 
+                           Margin="10,0,0,0">
+                    <StackPanel DockPanel.Dock="Top">
+                        <TextBlock Style="{StaticResource HomeText}" 
+                                   TextAlignment="Center" 
+                                   Margin="0">
+                            Fórmula
+                        </TextBlock>
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Center"
+                                HorizontalAlignment="Center">
+                        <TextBlock Style="{StaticResource HomeText}" 
+                                   FontSize="25" Margin="0" 
+                                   VerticalAlignment="Center">
+                            R&#8345; = X&#8345;&#8330;&#8321; / M<LineBreak/> <LineBreak/>
+                            X&#8345;&#8330;&#8321; = (AX&#8345; + C) MOD M
+                        </TextBlock>
+                    </StackPanel>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+
+        <DockPanel x:Name="PnlAboutUs"
+                   Grid.Row="2"
+                   Visibility="Hidden">
+            <StackPanel Orientation="Horizontal"
+                        DockPanel.Dock="Top"
+                        HorizontalAlignment="Center">
+                <Image Source="/Icons/tecnmlogo.png"
+                       Height="100"
+                       Margin="0,0,50,0"/>
+                <Image Source="/Icons/ittlogo.png"
+                       Height="100"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Foreground="White"
+                           FontSize="40"
+                           HorizontalAlignment="Center"
+                           Margin="0,0,0,5">
+                    TECNOLÓGICO NACIONAL DE MÉXICO
+                </TextBlock>
+                <TextBlock Foreground="White"
+                           FontSize="35"
+                           HorizontalAlignment="Center"
+                           Margin="0,5,0,5">
+                    INSTITUTO TECNOLÓGICO DE TIJUANA
+                </TextBlock>
+                <TextBlock Foreground="White"
+                           FontSize="30"
+                           HorizontalAlignment="Center"
+                           Margin="0,5,0,5">
+                    INGENIERÍA EN SISTEMAS COMPUTACIONALES
+                </TextBlock>
+                <TextBlock Foreground="White"
+                           FontSize="30"
+                           HorizontalAlignment="Center"
+                           Margin="0,5,0,5">
+                    Simulación
+                </TextBlock>
+                <TextBlock Foreground="White"
+                           FontSize="30"
+                           HorizontalAlignment="Center"
+                           Margin="0,5,0,5">
+                    Machado Sanchez Javier
+                </TextBlock>
+                <TextBlock Foreground="White"
+                           FontSize="30"
+                           HorizontalAlignment="Center"
+                           Margin="0,5,0,0">
+                    22211600
+                </TextBlock>
+            </StackPanel>
+        </DockPanel>
+
+    </Grid>
+</UserControl>

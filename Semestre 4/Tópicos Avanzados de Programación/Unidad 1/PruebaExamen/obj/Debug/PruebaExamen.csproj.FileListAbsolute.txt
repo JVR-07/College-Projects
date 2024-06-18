@@ -1,0 +1,11 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\bin\Debug\PruebaExamen.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\bin\Debug\PruebaExamen.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\bin\Debug\PruebaExamen.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.Form1.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.Form2.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\PruebaExamen\obj\Debug\PruebaExamen.pdb

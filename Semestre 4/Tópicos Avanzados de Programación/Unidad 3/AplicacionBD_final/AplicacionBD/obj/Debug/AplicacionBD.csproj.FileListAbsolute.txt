@@ -1,0 +1,42 @@
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.FrmPrincipal.resources
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.Properties.Resources.resources
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.GenerateResource.cache
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.exe.config
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.exe
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.pdb
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.exe
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.pdb
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\bin\Debug\CustomButtons.dll
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\bin\Debug\CustomButtons.pdb
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.FrmConexionBD.resources
+C:\Users\LAB-DSC-ITT\Desktop\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\bin\Debug\CustomButtons.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\bin\Debug\CustomButtons.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.FrmConexionBD.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.FrmPrincipal.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 3\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.pdb
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.exe.config
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.exe
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\bin\Debug\AplicacionBD.pdb
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\bin\Debug\CustomButtons.dll
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\bin\Debug\CustomButtons.pdb
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.FrmConexionBD.resources
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.FrmPrincipal.resources
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.exe
+D:\Documents\Visual Studio 2022\Topicos Avanzados\AplicacionBD\AplicacionBD\obj\Debug\AplicacionBD.pdb

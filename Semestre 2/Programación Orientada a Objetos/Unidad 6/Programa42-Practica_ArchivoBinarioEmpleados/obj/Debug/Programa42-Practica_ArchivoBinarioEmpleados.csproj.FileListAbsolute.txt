@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\bin\Debug\Programa42-Practica_ArchivoBinarioEmpleados.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\bin\Debug\Programa42-Practica_ArchivoBinarioEmpleados.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\bin\Debug\Programa42-Practica_ArchivoBinarioEmpleados.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\obj\Debug\Programa42-Practica_ArchivoBinarioEmpleados.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\obj\Debug\Programa42-Practica_ArchivoBinarioEmpleados.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\obj\Debug\Programa42-Practica_ArchivoBinarioEmpleados.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\obj\Debug\Programa42-Practica_ArchivoBinarioEmpleados.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa42-Practica_ArchivoBinarioEmpleados\obj\Debug\Programa42-Practica_ArchivoBinarioEmpleados.pdb

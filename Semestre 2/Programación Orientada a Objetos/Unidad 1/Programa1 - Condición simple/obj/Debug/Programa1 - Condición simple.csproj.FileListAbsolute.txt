@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\bin\Debug\Programa1 - Condición simple.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\bin\Debug\Programa1 - Condición simple.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\bin\Debug\Programa1 - Condición simple.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\obj\Debug\Programa1 - Condición simple.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\obj\Debug\Programa1 - Condición simple.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\obj\Debug\Programa1 - Condición simple.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\obj\Debug\Programa1 - Condición simple.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa1 - Condición simple\obj\Debug\Programa1 - Condición simple.pdb

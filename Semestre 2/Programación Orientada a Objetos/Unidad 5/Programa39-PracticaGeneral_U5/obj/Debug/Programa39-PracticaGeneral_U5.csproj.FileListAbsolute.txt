@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\bin\Debug\Programa39-PracticaGeneral_U5.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\bin\Debug\Programa39-PracticaGeneral_U5.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\bin\Debug\Programa39-PracticaGeneral_U5.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\obj\Debug\Programa39-PracticaGeneral_U5.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\obj\Debug\Programa39-PracticaGeneral_U5.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\obj\Debug\Programa39-PracticaGeneral_U5.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\obj\Debug\Programa39-PracticaGeneral_U5.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa39-PracticaGeneral_U5\obj\Debug\Programa39-PracticaGeneral_U5.pdb

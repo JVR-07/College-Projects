@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2022\Simulación\PseudorandomGenerator\bin\Release\PseudorandomGenerator.dll
+D:\Documents\Visual Studio 2022\Simulación\PseudorandomGenerator\bin\Release\PseudorandomGenerator.pdb
+D:\Documents\Visual Studio 2022\Simulación\PseudorandomGenerator\obj\Release\PseudorandomGenerator.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\PseudorandomGenerator\obj\Release\PseudorandomGenerator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\PseudorandomGenerator\obj\Release\PseudorandomGenerator.dll
+D:\Documents\Visual Studio 2022\Simulación\PseudorandomGenerator\obj\Release\PseudorandomGenerator.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\packages\PseudorandomGenerator\bin\Release\PseudorandomGenerator.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\packages\PseudorandomGenerator\bin\Release\PseudorandomGenerator.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\packages\PseudorandomGenerator\obj\Release\PseudorandomGenerator.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\packages\PseudorandomGenerator\obj\Release\PseudorandomGenerator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\packages\PseudorandomGenerator\obj\Release\PseudorandomGenerator.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\packages\PseudorandomGenerator\obj\Release\PseudorandomGenerator.pdb

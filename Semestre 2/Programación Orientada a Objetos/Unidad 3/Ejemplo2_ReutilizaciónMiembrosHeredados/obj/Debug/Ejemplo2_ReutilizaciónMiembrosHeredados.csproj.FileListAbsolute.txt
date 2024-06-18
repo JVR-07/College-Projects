@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\bin\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\bin\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\bin\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\obj\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\obj\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\obj\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\obj\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejemplos_Clase\Ejemplo2_ReutilizaciónMiembrosHeredados\obj\Debug\Ejemplo2_ReutilizaciónMiembrosHeredados.pdb

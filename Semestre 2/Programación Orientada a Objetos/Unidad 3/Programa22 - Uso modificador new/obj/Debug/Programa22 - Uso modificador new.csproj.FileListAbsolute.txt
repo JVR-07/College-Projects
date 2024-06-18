@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\bin\Debug\Programa22 - Uso modificador new.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\bin\Debug\Programa22 - Uso modificador new.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\bin\Debug\Programa22 - Uso modificador new.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\obj\Debug\Programa22 - Uso modificador new.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\obj\Debug\Programa22 - Uso modificador new.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\obj\Debug\Programa22 - Uso modificador new.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\obj\Debug\Programa22 - Uso modificador new.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa22 - Uso modificador new\obj\Debug\Programa22 - Uso modificador new.pdb

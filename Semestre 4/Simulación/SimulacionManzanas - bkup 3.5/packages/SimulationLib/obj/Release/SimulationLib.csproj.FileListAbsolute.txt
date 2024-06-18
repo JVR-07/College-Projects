@@ -1,0 +1,24 @@
+D:\Documents\Visual Studio 2022\Simulación\SimulationLib\bin\Release\SimulationLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulationLib\bin\Release\SimulationLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulationLib\obj\Release\SimulationLib.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulationLib\obj\Release\SimulationLib.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulationLib\obj\Release\SimulationLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulationLib\obj\Release\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\packages\SimulationLib\bin\Release\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\packages\SimulationLib\bin\Release\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\packages\SimulationLib\obj\Release\SimulationLib.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.0 - Copy\packages\SimulationLib\obj\Release\SimulationLib.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.0 - Copy\packages\SimulationLib\obj\Release\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\packages\SimulationLib\obj\Release\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\packages\SimulationLib\bin\Release\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\packages\SimulationLib\bin\Release\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\packages\SimulationLib\obj\Release\SimulationLib.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.3 - Copy\packages\SimulationLib\obj\Release\SimulationLib.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.3 - Copy\packages\SimulationLib\obj\Release\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\packages\SimulationLib\obj\Release\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\packages\SimulationLib\bin\Release\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\packages\SimulationLib\bin\Release\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\packages\SimulationLib\obj\Release\SimulationLib.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.4 - Copy\packages\SimulationLib\obj\Release\SimulationLib.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.4 - Copy\packages\SimulationLib\obj\Release\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\packages\SimulationLib\obj\Release\SimulationLib.pdb

@@ -1,0 +1,18 @@
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\bin\Release\SeriesTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\bin\Release\SeriesTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\bin\Release\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\bin\Release\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\obj\Release\SeriesTestLib.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\obj\Release\SeriesTestLib.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\obj\Release\SeriesTestLib.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\obj\Release\SeriesTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SeriesTestLib\obj\Release\SeriesTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\bin\Release\SeriesTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\bin\Release\SeriesTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\bin\Release\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\bin\Release\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\obj\Release\SeriesTestLib.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\obj\Release\SeriesTestLib.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\obj\Release\SeriesTestLib.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\obj\Release\SeriesTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\packages\SeriesTestLib\obj\Release\SeriesTestLib.pdb

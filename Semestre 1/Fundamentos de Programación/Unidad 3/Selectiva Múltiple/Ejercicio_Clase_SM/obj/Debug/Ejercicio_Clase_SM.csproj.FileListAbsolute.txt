@@ -1,0 +1,8 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\obj\Debug\Ejercicio_Clase_SM.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\obj\Debug\Ejercicio_Clase_SM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\obj\Debug\Ejercicio_Clase_SM.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\bin\Debug\Ejercicio_Clase_SM.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\bin\Debug\Ejercicio_Clase_SM.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\bin\Debug\Ejercicio_Clase_SM.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\obj\Debug\Ejercicio_Clase_SM.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_Clase_SM\obj\Debug\Ejercicio_Clase_SM.pdb

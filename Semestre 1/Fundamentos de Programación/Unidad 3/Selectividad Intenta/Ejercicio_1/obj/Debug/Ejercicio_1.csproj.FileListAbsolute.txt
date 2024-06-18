@@ -1,0 +1,11 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Intenta\Ejercicio_1\obj\Debug\Ejercicio_1.pdb

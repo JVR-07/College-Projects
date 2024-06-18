@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\bin\Debug\Programa15 - Clase Alumno.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\bin\Debug\Programa15 - Clase Alumno.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\bin\Debug\Programa15 - Clase Alumno.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\obj\Debug\Programa15 - Clase Alumno.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\obj\Debug\Programa15 - Clase Alumno.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\obj\Debug\Programa15 - Clase Alumno.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\obj\Debug\Programa15 - Clase Alumno.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa15 - Clase Alumno\obj\Debug\Programa15 - Clase Alumno.pdb

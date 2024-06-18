@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7 Manejando HashSet", "P7 Manejando HashSet.csproj", "{69678079-29FC-433C-9133-BC3390B217EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69678079-29FC-433C-9133-BC3390B217EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69678079-29FC-433C-9133-BC3390B217EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69678079-29FC-433C-9133-BC3390B217EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69678079-29FC-433C-9133-BC3390B217EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903EB51A-E072-4F8F-A302-B8B04AD32916}
+	EndGlobalSection
+EndGlobal

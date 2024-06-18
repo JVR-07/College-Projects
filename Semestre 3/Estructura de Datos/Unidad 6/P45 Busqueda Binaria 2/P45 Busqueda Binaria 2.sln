@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P45 Busqueda Binaria 2", "P45 Busqueda Binaria 2.csproj", "{86B6F935-8C1B-4DD4-A71E-CB2469E71365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B6F935-8C1B-4DD4-A71E-CB2469E71365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B6F935-8C1B-4DD4-A71E-CB2469E71365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B6F935-8C1B-4DD4-A71E-CB2469E71365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B6F935-8C1B-4DD4-A71E-CB2469E71365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F799B050-505F-460F-94B8-C88FB8CB9180}
+	EndGlobalSection
+EndGlobal

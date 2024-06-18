@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\bin\Debug\P43 Busqueda Secuencial Metodo 3.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\bin\Debug\P43 Busqueda Secuencial Metodo 3.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\bin\Debug\P43 Busqueda Secuencial Metodo 3.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\obj\Debug\P43 Busqueda Secuencial Metodo 3.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\obj\Debug\P43 Busqueda Secuencial Metodo 3.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\obj\Debug\P43 Busqueda Secuencial Metodo 3.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\obj\Debug\P43 Busqueda Secuencial Metodo 3.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P43 Busqueda Secuencial Metodo 3\obj\Debug\P43 Busqueda Secuencial Metodo 3.pdb

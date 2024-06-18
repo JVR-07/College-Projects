@@ -1,0 +1,8 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\bin\Debug\Ejemplo_BinaryText.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\bin\Debug\Ejemplo_BinaryText.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\bin\Debug\Ejemplo_BinaryText.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\obj\Debug\Ejemplo_BinaryText.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\obj\Debug\Ejemplo_BinaryText.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\obj\Debug\Ejemplo_BinaryText.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\obj\Debug\Ejemplo_BinaryText.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\POO\POO U6\Ejemplos\Ejemplo_BinaryText\obj\Debug\Ejemplo_BinaryText.pdb

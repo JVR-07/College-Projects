@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\obj\Debug\P23 Cola Simple Estatica de Calificaciones.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\obj\Debug\P23 Cola Simple Estatica de Calificaciones.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\obj\Debug\P23 Cola Simple Estatica de Calificaciones.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\bin\Debug\P23 Cola Simple Estatica de Calificaciones.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\bin\Debug\P23 Cola Simple Estatica de Calificaciones.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\bin\Debug\P23 Cola Simple Estatica de Calificaciones.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\obj\Debug\P23 Cola Simple Estatica de Calificaciones.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P23 Cola Simple Estatica de Calificaciones\obj\Debug\P23 Cola Simple Estatica de Calificaciones.pdb

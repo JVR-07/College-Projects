@@ -1,0 +1,16 @@
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\bin\Debug\Ejercicio_D.exe.config
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\bin\Debug\Ejercicio_D.exe
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\bin\Debug\Ejercicio_D.pdb
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.csproj.AssemblyReference.cache
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.csproj.SuggestedBindingRedirects.cache
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.csproj.CoreCompileInputs.cache
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.exe
+C:\Users\TecNM-ITT-DSC\Downloads\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\bin\Debug\Ejercicio_D.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\bin\Debug\Ejercicio_D.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\bin\Debug\Ejercicio_D.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectiva Múltiple\Ejercicio_D\obj\Debug\Ejercicio_D.pdb

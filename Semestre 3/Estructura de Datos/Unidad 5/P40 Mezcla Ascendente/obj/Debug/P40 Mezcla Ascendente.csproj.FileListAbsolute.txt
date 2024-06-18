@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\obj\Debug\P40 Mezcla Ascendente.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\obj\Debug\P40 Mezcla Ascendente.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\obj\Debug\P40 Mezcla Ascendente.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\bin\Debug\P40 Mezcla Ascendente.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\bin\Debug\P40 Mezcla Ascendente.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\bin\Debug\P40 Mezcla Ascendente.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\obj\Debug\P40 Mezcla Ascendente.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P40 Mezcla Ascendente\obj\Debug\P40 Mezcla Ascendente.pdb

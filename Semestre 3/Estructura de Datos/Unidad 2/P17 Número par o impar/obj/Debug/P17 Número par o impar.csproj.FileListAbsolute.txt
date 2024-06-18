@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\bin\Debug\P17 Número par o impar.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\bin\Debug\P17 Número par o impar.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\bin\Debug\P17 Número par o impar.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\obj\Debug\P17 Número par o impar.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\obj\Debug\P17 Número par o impar.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\obj\Debug\P17 Número par o impar.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P17 Número par o impar\obj\Debug\P17 Número par o impar.pdb

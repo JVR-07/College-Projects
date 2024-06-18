@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\bin\Debug\Programa2 - Condición Compuesta.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\bin\Debug\Programa2 - Condición Compuesta.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\bin\Debug\Programa2 - Condición Compuesta.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\obj\Debug\Programa2 - Condición Compuesta.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\obj\Debug\Programa2 - Condición Compuesta.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\obj\Debug\Programa2 - Condición Compuesta.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\obj\Debug\Programa2 - Condición Compuesta.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa2 - Condición Compuesta\obj\Debug\Programa2 - Condición Compuesta.pdb

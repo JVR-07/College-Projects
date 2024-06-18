@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\bin\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\bin\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\bin\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\obj\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\obj\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\obj\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P14 Manejando Menu_Opciones_Recursividad_Directa\obj\Debug\P14 Manejando Menu_Opciones_Recursividad_Directa.pdb

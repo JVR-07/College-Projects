@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\bin\Debug\Pracrtica3_Manejo de Vectores.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\bin\Debug\Pracrtica3_Manejo de Vectores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\bin\Debug\Pracrtica3_Manejo de Vectores.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\obj\Debug\Pracrtica3_Manejo de Vectores.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\obj\Debug\Pracrtica3_Manejo de Vectores.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\obj\Debug\Pracrtica3_Manejo de Vectores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\Pracrtica3_Manejo de Vectores\obj\Debug\Pracrtica3_Manejo de Vectores.pdb

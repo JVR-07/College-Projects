@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\bin\Debug\P41 Busqueda Secuencial Metodo 1.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\bin\Debug\P41 Busqueda Secuencial Metodo 1.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\bin\Debug\P41 Busqueda Secuencial Metodo 1.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\bin\Debug\P41 Busqueda Secuencial Metodo 1.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\bin\Debug\P41 Busqueda Secuencial Metodo 1.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\bin\Debug\P41 Busqueda Secuencial Metodo 1.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P41 Busqueda Secuencial Metodo 1\obj\Debug\P41 Busqueda Secuencial Metodo 1.pdb

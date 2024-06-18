@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P23 Cola Simple Estatica de Calificaciones", "P23 Cola Simple Estatica de Calificaciones.csproj", "{DEAA3D4E-040D-45E1-9E99-F3EBA6FC1C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAA3D4E-040D-45E1-9E99-F3EBA6FC1C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAA3D4E-040D-45E1-9E99-F3EBA6FC1C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAA3D4E-040D-45E1-9E99-F3EBA6FC1C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAA3D4E-040D-45E1-9E99-F3EBA6FC1C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C85856B-8431-466C-877A-ECE32AEB3EE5}
+	EndGlobalSection
+EndGlobal

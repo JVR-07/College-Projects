@@ -1,0 +1,22 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\bin\Debug\Menu.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\bin\Debug\Menu.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\bin\Debug\Menu.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.Form1.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.form2.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Menu\obj\Debug\Menu.pdb
+C:\Users\Javier PC\Desktop\Menu\bin\Debug\Menu.exe.config
+C:\Users\Javier PC\Desktop\Menu\bin\Debug\Menu.exe
+C:\Users\Javier PC\Desktop\Menu\bin\Debug\Menu.pdb
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.form2.resources
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.exe
+C:\Users\Javier PC\Desktop\Menu\obj\Debug\Menu.pdb

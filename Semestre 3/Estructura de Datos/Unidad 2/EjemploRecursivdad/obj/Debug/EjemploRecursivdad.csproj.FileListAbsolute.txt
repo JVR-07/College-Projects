@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\bin\Debug\EjemploRecursivdad.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\bin\Debug\EjemploRecursivdad.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\bin\Debug\EjemploRecursivdad.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\obj\Debug\EjemploRecursivdad.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\obj\Debug\EjemploRecursivdad.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\obj\Debug\EjemploRecursivdad.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\EjemploRecursivdad\obj\Debug\EjemploRecursivdad.pdb

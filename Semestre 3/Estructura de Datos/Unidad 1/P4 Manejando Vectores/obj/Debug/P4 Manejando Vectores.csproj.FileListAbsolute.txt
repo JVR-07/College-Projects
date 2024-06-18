@@ -1,0 +1,8 @@
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\obj\Debug\P4 Manejando Vectores.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\obj\Debug\P4 Manejando Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\obj\Debug\P4 Manejando Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\bin\Debug\P4 Manejando Vectores.exe.config
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\bin\Debug\P4 Manejando Vectores.exe
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\bin\Debug\P4 Manejando Vectores.pdb
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\obj\Debug\P4 Manejando Vectores.exe
+C:\Users\Javier PC\Desktop\P4 Manejando Vectores\obj\Debug\P4 Manejando Vectores.pdb

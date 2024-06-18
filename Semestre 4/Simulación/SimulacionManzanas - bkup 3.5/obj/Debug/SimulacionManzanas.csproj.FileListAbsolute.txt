@@ -1,0 +1,1815 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\SimulacionManzanas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\Styles\UIColors.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\MainWindow.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\App.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\App.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\MainWindow.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.g.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\FontAwesome.Sharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\Styles\ButtonStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\bin\Debug\FontAwesome.Sharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\bin\Debug\FontAwesome.Sharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\bin\Debug\FontAwesome.Sharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.3 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\bin\Debug\FontAwesome.Sharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\bin\Debug\FontAwesome.Sharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.4 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.5 - Copy\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.7 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.8 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\bin\Debug\SimulacionManzanas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\bin\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\bin\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\bin\Debug\GridLengthAnimation.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\bin\Debug\GridLengthAnimation.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\Styles\ButtonStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\Styles\TextStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\Styles\UIColors.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\MainWindow.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\SimulationPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\WelcomePage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\App.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\App.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\MainWindow.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\FirstTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\GeneratorPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\SecondTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\SimulationPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\UserControls\WelcomePage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.g.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 1.9\obj\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\libHarfBuzzSharp.dylib
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\libSkiaSharp.dylib
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\x86\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\x64\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\arm64\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SimulacionManzanas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\GridLengthAnimation.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\HarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\LiveCharts.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\LiveCharts.Wpf.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\Newtonsoft.Json.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Buffers.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Drawing.Common.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Memory.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Numerics.Vectors.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\GridLengthAnimation.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\HarfBuzzSharp.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\HarfBuzzSharp.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\LiveCharts.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\LiveCharts.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\LiveCharts.Wpf.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\LiveCharts.Wpf.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\Newtonsoft.Json.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Buffers.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Memory.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Numerics.Vectors.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.csprojFakesResolveAssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\Styles\ButtonStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\Styles\TextStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\Styles\UIColors.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\MainWindow.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\SimulationPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\WelcomePage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\App.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\App.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\MainWindow.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\FirstTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\GeneratorPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\SecondTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\SimulationPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\UserControls\WelcomePage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.g.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\Simulaci.DB0A4EC0.Up2Date
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2\obj\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\libHarfBuzzSharp.dylib
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\libSkiaSharp.dylib
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\x86\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\x64\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\arm64\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SimulacionManzanas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\GridLengthAnimation.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\HarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\LiveCharts.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\LiveCharts.Wpf.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\Newtonsoft.Json.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Buffers.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Drawing.Common.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Memory.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Numerics.Vectors.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\GridLengthAnimation.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\HarfBuzzSharp.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\HarfBuzzSharp.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\LiveCharts.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\LiveCharts.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\LiveCharts.Wpf.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\LiveCharts.Wpf.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\Newtonsoft.Json.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Buffers.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Memory.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Numerics.Vectors.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.csprojFakesResolveAssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\Styles\ButtonStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\Styles\TextStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\Styles\UIColors.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\MainWindow.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\SimulationPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\WelcomePage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\App.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\App.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\MainWindow.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\FirstTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\GeneratorPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\SecondTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\SimulationPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\UserControls\WelcomePage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.g.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\Simulaci.DB0A4EC0.Up2Date
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.1 - copia\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Drawing.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Drawing.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\PseudorandomGenerator.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\bin\Debug\PseudorandomGenerator.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.2 - Copy\obj\Debug\Styles\DataGridStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Drawing.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\PseudorandomGenerator.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\Styles\DataGridStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\Styles\DataGridStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Drawing.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\bin\Debug\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.3 - Copy - Copy\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Drawing.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\bin\Debug\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\Styles\DataGridStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.5\obj\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\libHarfBuzzSharp.dylib
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\libSkiaSharp.dylib
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\x86\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\x64\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\arm64\libSkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SimulacionManzanas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SimulacionManzanas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\FrequencyTestLib.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\GridLengthAnimation.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\HarfBuzzSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\LiveCharts.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\LiveCharts.Wpf.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\Newtonsoft.Json.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Buffers.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Drawing.Common.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Memory.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Numerics.Vectors.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\MathNet.Numerics.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\FrequencyTestLib.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\GridLengthAnimation.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\HarfBuzzSharp.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\HarfBuzzSharp.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\LiveCharts.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\LiveCharts.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\LiveCharts.Wpf.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\LiveCharts.Wpf.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\Newtonsoft.Json.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Buffers.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Memory.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Numerics.Vectors.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\MathNet.Numerics.xml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.csprojFakesResolveAssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\Styles\ButtonStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\Styles\DataGridStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\Styles\TextStyles.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\Styles\UIColors.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\MainWindow.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\SimulationPage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\WelcomePage.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\App.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\App.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\MainWindow.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\FirstTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\GeneratorPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\SecondTestPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\SimulationPage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\UserControls\WelcomePage.baml
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.g.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\Simulaci.DB0A4EC0.Up2Date
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.6\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SimulacionManzanas.exe.config
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\FrequencyTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Drawing.Common.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\MathNet.Numerics.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\FrequencyTestLib.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\MathNet.Numerics.xml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\Styles\ButtonStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\Styles\DataGridStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\Styles\TextStyles.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\Styles\UIColors.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\FirstTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\GeneratorPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\SecondTestPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\SimulationPage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\WelcomePage.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas_Content.g.cs
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\App.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\FirstTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\GeneratorPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\SecondTestPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\SimulationPage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\UserControls\WelcomePage.baml
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.g.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.exe
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\obj\Debug\SimulacionManzanas.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\PseudorandomGenerator.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SeriesTestLib.dll
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\PseudorandomGenerator.pdb
+D:\Documents\Visual Studio 2022\Simulación\SimulacionManzanas - bkup 2.7\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.csprojFakesResolveAssemblyReference.cache
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\Simulaci.DB0A4EC0.Up2Date
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 2.8 - copia\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 2.9\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.csprojFakesResolveAssemblyReference.cache
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\Simulaci.DB0A4EC0.Up2Date
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 2.9 - Copy\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.0 - Copy\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.1 - Copy\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.2 - Copy\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\HelpPage.g.cs
+E:\SimulacionManzanas - bkup 3.3 - Copy\obj\Debug\UserControls\HelpPage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\libHarfBuzzSharp.dylib
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\x86\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\x64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\arm64\libHarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\libSkiaSharp.dylib
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\x86\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\x64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\arm64\libSkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SimulacionManzanas.exe.config
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SimulacionManzanas.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\FrequencyTestLib.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\GridLengthAnimation.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\HarfBuzzSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\LiveCharts.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\LiveCharts.Wpf.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\PseudorandomGenerator.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SeriesTestLib.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SimulationLib.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.HarfBuzz.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Buffers.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Drawing.Common.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Memory.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Numerics.Vectors.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\MathNet.Numerics.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\FrequencyTestLib.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\GridLengthAnimation.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\HarfBuzzSharp.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\HarfBuzzSharp.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\LiveCharts.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\LiveCharts.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\LiveCharts.Wpf.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\LiveCharts.Wpf.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\PseudorandomGenerator.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SeriesTestLib.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SimulationLib.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.HarfBuzz.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Buffers.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Memory.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Numerics.Vectors.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\MathNet.Numerics.xml
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.csproj.AssemblyReference.cache
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\Styles\ButtonStyles.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\Styles\DataGridStyles.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\Styles\TextStyles.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\Styles\UIColors.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\MainWindow.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\FirstTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\GeneratorPage.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\HelpPage.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\SecondTestPage.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\SimulationPage.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\WelcomePage.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\App.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas_Content.g.cs
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.cache
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas_MarkupCompile.lref
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\App.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\MainWindow.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\FirstTestPage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\GeneratorPage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\HelpPage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\SecondTestPage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\SimulationPage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\UserControls\WelcomePage.baml
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.g.resources
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.Properties.Resources.resources
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.csproj.GenerateResource.cache
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.csproj.CoreCompileInputs.cache
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.csproj.CopyComplete
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.exe
+E:\SimulacionManzanas - bkup 3.4 - Copy\obj\Debug\SimulacionManzanas.pdb

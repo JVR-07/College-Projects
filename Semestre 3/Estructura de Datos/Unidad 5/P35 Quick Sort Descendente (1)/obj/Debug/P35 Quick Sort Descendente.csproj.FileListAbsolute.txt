@@ -1,0 +1,15 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\bin\Debug\P35 Quick Sort Descendente.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\bin\Debug\P35 Quick Sort Descendente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\bin\Debug\P35 Quick Sort Descendente.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\bin\Debug\P35 Quick Sort Descendente.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\bin\Debug\P35 Quick Sort Descendente.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\bin\Debug\P35 Quick Sort Descendente.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U5\P35 Quick Sort Descendente\obj\Debug\P35 Quick Sort Descendente.pdb

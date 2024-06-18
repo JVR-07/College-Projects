@@ -1,0 +1,21 @@
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\USER\OneDrive\Escritorio\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Javier PC\Desktop\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Javier PC\Desktop\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Javier PC\Desktop\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Javier PC\Desktop\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Desktop\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Desktop\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Javier PC\Desktop\Ejercicio2\obj\Debug\Ejercicio2.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio2\obj\Debug\Ejercicio2.pdb

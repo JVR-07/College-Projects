@@ -1,0 +1,22 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\bin\Debug\V_Ejercicio2.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\bin\Debug\V_Ejercicio2.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\bin\Debug\V_Ejercicio2.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.frmMain.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos\V_Ejercicio2\obj\Debug\V_Ejercicio2.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\bin\Debug\V_Ejercicio2.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\bin\Debug\V_Ejercicio2.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\bin\Debug\V_Ejercicio2.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.frmMain.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Unidimensionales\V_Ejercicio2\obj\Debug\V_Ejercicio2.pdb

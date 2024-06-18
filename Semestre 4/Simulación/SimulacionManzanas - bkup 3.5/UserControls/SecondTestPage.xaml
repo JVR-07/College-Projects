@@ -1,0 +1,258 @@
+﻿<UserControl x:Class="SimulacionManzanas.UserControls.SecondTestPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SimulacionManzanas.UserControls"
+             xmlns:chrt="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="630" d:DesignWidth="1046"
+             Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="53"/>
+            <!-- Row for title -->
+            <RowDefinition Height="1*"/>
+            <!-- Row for Configuration section -->
+            <RowDefinition Height="0.7*"/>
+            <!-- Row for results -->
+        </Grid.RowDefinitions>
+
+        <!-- TextBlock for the title -->
+        <TextBlock Grid.Row="0"
+                   Style="{StaticResource HomeText}"
+                   HorizontalAlignment="Center">
+            Prueba de Series
+        </TextBlock>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <!-- Grid for numbers and pairs list -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1.5*"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0"
+                           Margin="0,0,5,0">
+                    <TextBlock Style="{StaticResource HomeText}" 
+                               TextAlignment="Center" 
+                               Margin="0"
+                               FontSize="22"
+                               DockPanel.Dock="Top">
+                        Números
+                    </TextBlock>
+                    <DataGrid x:Name="DtgNumbers"
+                              AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Índice"
+                                                Binding="{Binding Index}">
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Header="Número"
+                                                Binding="{Binding Number}">
+                            </DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+                <DockPanel Grid.Column="1"
+                           Margin="5,0,5,0">
+                    <TextBlock Style="{StaticResource HomeText}" 
+                               TextAlignment="Center" 
+                               Margin="0"
+                               FontSize="22"
+                               DockPanel.Dock="Top">
+                        Pares
+                    </TextBlock>
+                    <DataGrid x:Name="DtgPairs"
+                              AutoGenerateColumns="False"
+                              ScrollViewer.CanContentScroll="True"
+                              ScrollViewer.VerticalScrollBarVisibility="Auto"
+                              ScrollViewer.HorizontalScrollBarVisibility="Auto">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Índice"
+                                                Binding="{Binding Index}">
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Header="Par"
+                                                Binding="{Binding Pair}">
+                            </DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+            </Grid>
+            <!-- Intervals panel -->
+            <DockPanel Grid.Column="1"
+                       Margin="5,0,0,0">
+                <TextBlock Style="{StaticResource HomeText}" 
+                           TextAlignment="Center" 
+                           Margin="0"
+                           FontSize="22"
+                           DockPanel.Dock="Top">
+                    Grupos
+                </TextBlock>
+                <DockPanel DockPanel.Dock="Bottom">
+                    <StackPanel Orientation="Horizontal" 
+                                HorizontalAlignment="Center">
+                        <Button x:Name="BtnAddInterval" 
+                                Height="40" 
+                                Width="40" 
+                                FontSize="30" 
+                                Margin="0,0,5,0"
+                                Cursor="Hand"
+                                Click="BtnAddInterval_Click">
+                            +
+                        </Button>
+                        <Button x:Name="BtnRemoveInterval" 
+                                Height="40" 
+                                Width="40" 
+                                FontSize="30" 
+                                Margin="5,0,0,0"
+                                Cursor="Hand"
+                                Click="BtnRemoveInterval_Click">
+                            -
+                        </Button>
+                    </StackPanel>
+                </DockPanel>
+                <DataGrid x:Name="DtgIntervals"
+                          Style="{StaticResource DataGridDefault}"
+                          AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Nombre"
+                                            Binding="{Binding Name}"/>
+
+                        <DataGridTextColumn Header="Límite Inferior"
+                                            Binding="{Binding BottomLimit}"/>
+                        <DataGridTextColumn Header="Límite Superior"
+                                            Binding="{Binding TopLimit}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1.5*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <!-- TextBlock for show the result-->
+                <TextBlock x:Name="TxtBlkResult"
+                           Style="{StaticResource HomeText}"
+                           FontSize="25"
+                           TextWrapping="WrapWithOverflow"
+                           TextAlignment="Center"
+                           Visibility="Hidden"
+                           Grid.Row="0">
+                </TextBlock>
+                <!-- Button for make the pairs -->
+                <Button x:Name="BtnDefPairs"
+                        Height="70" 
+                        Width="250" 
+                        FontSize="30"
+                        Grid.Row="1"
+                        Cursor="Hand"
+                        Click="BtnDefPairs_Click">
+                    Definir Pares
+                </Button>
+                <!-- Section for the definition of alpha -->
+                <Grid Grid.Row="2"
+                      Margin="0,0,0,20"
+                      VerticalAlignment="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.3*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Row="0">
+                        <Label Grid.Column="0" 
+                               Grid.Row="0" 
+                               Style="{StaticResource LblDefVarsGen}">
+                            Significancia ( α ) :
+                        </Label>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1">
+                        <TextBox x:Name="TxtAlpha" 
+                                 Style="{StaticResource TxtDefVarsGen}"/>
+                    </StackPanel>
+                </Grid>
+                <!-- Button for do the second test -->
+                <Button x:Name="BtnRunTest" 
+                        Height="70" 
+                        Width="250" 
+                        FontSize="30"
+                        Grid.Row="3"
+                        Cursor="Hand"
+                        Click="BtnRunTest_Click">
+                    Realizar Prueba
+                </Button>
+            </Grid>            
+        </Grid>
+
+        <!-- Grid for divide the result section -->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <!-- FE Panel -->
+            <DockPanel Grid.Column="0">
+                <DockPanel DockPanel.Dock="Top">
+                    <Label FontSize="20" 
+                   Foreground="White"
+                   HorizontalAlignment="Center"
+                   Padding="0,0,65,0">
+                        FRECUENCIA ESPERADA
+                    </Label>
+                </DockPanel>
+                <DockPanel>
+                    <chrt:PieChart Name="chrtFE"
+                           Series="{Binding FESeries}"
+                           LegendLocation="Right"
+                           InnerRadius="55"
+                           Foreground="White">
+                        <chrt:PieChart.ChartLegend>
+                            <chrt:DefaultLegend Foreground="White"
+                                        BulletSize="20">
+                            </chrt:DefaultLegend>
+                        </chrt:PieChart.ChartLegend>
+                        <chrt:PieChart.DataTooltip>
+                            <chrt:DefaultTooltip Foreground="Black"  
+                                         BulletSize="20"></chrt:DefaultTooltip>
+                        </chrt:PieChart.DataTooltip>
+                    </chrt:PieChart>
+                </DockPanel>
+            </DockPanel>
+            <!-- FO Panel -->
+            <DockPanel Grid.Column="1">
+                <DockPanel DockPanel.Dock="Top">
+                    <Label FontSize="20" 
+                   Foreground="White"
+                   HorizontalAlignment="Center"
+                   Padding="0,0,65,0">
+                        FRECUENCIA OBSERVADA
+                    </Label>
+                </DockPanel>
+                <DockPanel>
+                    <chrt:PieChart Name="chrtFO"
+                           Series="{Binding FOSeries}"
+                           LegendLocation="Right"
+                           InnerRadius="55">
+                        <chrt:PieChart.ChartLegend>
+                            <chrt:DefaultLegend Foreground="White"
+                                        BulletSize="20">
+                            </chrt:DefaultLegend>
+                        </chrt:PieChart.ChartLegend>
+                        <chrt:PieChart.DataTooltip>
+                            <chrt:DefaultTooltip Foreground="Black"
+                                         BulletSize="20">
+
+                            </chrt:DefaultTooltip>
+                        </chrt:PieChart.DataTooltip>
+                    </chrt:PieChart>
+                </DockPanel>
+            </DockPanel>
+        </Grid>
+
+    </Grid>
+</UserControl>

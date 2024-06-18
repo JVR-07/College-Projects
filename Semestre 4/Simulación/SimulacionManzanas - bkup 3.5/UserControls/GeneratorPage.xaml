@@ -1,0 +1,208 @@
+﻿<UserControl x:Class="SimulacionManzanas.UserControls.GeneratorPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SimulacionManzanas.UserControls"
+             mc:Ignorable="d" 
+             Width="1046" 
+             Height="630"
+             Loaded="UserControl_Loaded">
+    <DockPanel>
+    <Grid>
+            <Grid.ColumnDefinitions>
+                <!-- Column with the list of numbers -->
+                <ColumnDefinition Width="0.7*"/>
+                <!-- Column with the defvars and buttons -->
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <!-- Panel with the List of Numbers -->
+            <DockPanel Grid.Column="0">
+                <DockPanel DockPanel.Dock="Left">
+                    <!-- Panel with the label -->
+                    <DockPanel DockPanel.Dock="Top">
+                        <TextBlock Style="{StaticResource HomeText}" 
+                                   TextAlignment="Center" 
+                                   Margin="0">
+                            Números Pseudoaleatorios
+                        </TextBlock>
+                    </DockPanel>
+                    <!-- Panel with the DataGrid -->
+                    <DockPanel>
+                        <DataGrid x:Name="DtgNumbersGenerated"
+                                  Style="{StaticResource DataGridDefault}"
+                                  AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Índice"
+                                                Binding="{Binding Index}"/>
+
+                            <DataGridTextColumn Header="Número Pseudoaleatorio"
+                                                Binding="{Binding Number}"/>
+
+                        </DataGrid.Columns>
+                        </DataGrid>
+                    </DockPanel>
+                </DockPanel>
+            </DockPanel>
+
+            <!-- Grid for the rows of defvars and buttons panel -->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <!-- Row for the DefVars -->
+                    <RowDefinition Height="1.5*"/>
+                    <!-- Row for the Help label -->
+                    <RowDefinition Height="1*"/>
+                    <!-- Row for the buttons -->
+                    <RowDefinition Height="1.5*"/>
+                </Grid.RowDefinitions>
+
+                <!--Top panel with the defvars-->
+                <StackPanel DockPanel.Dock="Top" 
+                            Grid.Row="0">
+                    <!-- Variables TextBoxs -->
+                    <DockPanel>
+                        <!-- Title Panel -->
+                        <StackPanel DockPanel.Dock="Top" 
+                                    VerticalAlignment="Top" 
+                                    HorizontalAlignment="Center">
+                            <TextBlock Style="{StaticResource HomeText}" 
+                                       TextAlignment="Center" 
+                                       Margin="0">
+                    Definición de Variables
+                            </TextBlock>
+                        </StackPanel>
+                        <!-- Content Panel -->
+                        <StackPanel VerticalAlignment="Top" >
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <!-- Column with the label -->
+                                    <ColumnDefinition Width="1*"/>
+                                    <!-- Column with the textbox -->
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                </Grid.RowDefinitions>
+                                <StackPanel Grid.Column="0">
+                                    <!-- A Variable -->
+                                    <Label Grid.Column="0" 
+                                           Grid.Row="0" 
+                                           Style="{StaticResource LblDefVarsGen}">
+                                        Constante Múltiplicativa ( A ) :
+                                    </Label>
+                                    <!-- C Variable -->
+                                    <Label Grid.Column="0" 
+                                           Grid.Row="1" 
+                                           Style="{StaticResource LblDefVarsGen}">
+                                        Constante Aditiva ( C ) :
+                                    </Label>
+                                    <!-- Xn Variable -->
+                                    <Label Grid.Column="0" 
+                                           Grid.Row="2" 
+                                           Style="{StaticResource LblDefVarsGen}">
+                                        Semilla ( X&#8345; ) :
+                                    </Label>
+                                    <!-- M Variable -->
+                                    <Label Grid.Column="0" 
+                                           Grid.Row="3" 
+                                           Style="{StaticResource LblDefVarsGen}">
+                                        Modulo ( M ) :
+                                    </Label>
+                                    <!-- n Variable -->
+                                    <Label Grid.Column="0" 
+                                           Grid.Row="4" 
+                                           Style="{StaticResource LblDefVarsGen}">
+                                        Cantidad de Números ( n ) :
+                                    </Label>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1">
+                                    <TextBox x:Name="TxtConstMult" 
+                                             Grid.Column="1" 
+                                             Grid.Row="0" 
+                                             Style="{StaticResource TxtDefVarsGen}"/>
+                                    <TextBox x:Name="TxtConstAdd" 
+                                             Grid.Column="1" 
+                                             Grid.Row="1" 
+                                             Style="{StaticResource TxtDefVarsGen}"/>
+                                    <TextBox x:Name="TxtSeed" 
+                                             Grid.Column="1" 
+                                             Grid.Row="2" 
+                                             Style="{StaticResource TxtDefVarsGen}"/>
+                                    <TextBox x:Name="TxtMod" 
+                                             Grid.Column="1" 
+                                             Grid.Row="3" 
+                                             Style="{StaticResource TxtDefVarsGen}"/>
+                                    <TextBox x:Name="TxtQuantity" 
+                                             Grid.Column="1" 
+                                             Grid.Row="4" 
+                                             Style="{StaticResource TxtDefVarsGen}"/>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </DockPanel>
+                </StackPanel>
+
+                <!-- Bottom panel with the buttons -->
+                <DockPanel Grid.Row="2">
+                    
+                    <StackPanel VerticalAlignment="Center">
+                        <StackPanel Margin="0,0,0,17">
+                            <Button x:Name="BtnGenerate" 
+                                    Height="70" 
+                                    Width="250" 
+                                    FontSize="30"
+                                    Cursor="Hand"
+                                    Click="BtnGenerate_Click">
+                                Generar Números
+                            </Button>
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Center" 
+                                    Margin="0,17,0,0" 
+                                    Orientation="Horizontal">
+                            <Button x:Name="BtnClear" 
+                                    Height="70" 
+                                    Width="250" 
+                                    FontSize="30"
+                                    Margin="0,0,10,0"
+                                    Cursor="Hand"
+                                    Click="BtnClear_Click">
+                                Limpiar Números
+                            </Button>
+                            <Button x:Name="BtnRestore" 
+                                    Height="70" 
+                                    Width="265" 
+                                    FontSize="30"
+                                    Margin="10,0,0,0"
+                                    Cursor="Hand"
+                                    Click="BtnRestore_Click">
+                                Restaurar Números
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </DockPanel>
+
+                <!-- Center panel with the help labels -->
+                <DockPanel Grid.Row="1"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center">
+                    <StackPanel>
+                        <StackPanel>
+                            <TextBlock Style="{StaticResource HomeText}">
+                ¿Necesita ayuda?
+                            </TextBlock>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label Style="{StaticResource HoverHomeTextEfect}">
+                                Ir a la sección de ayuda
+                            </Label>
+                        </StackPanel>
+                    </StackPanel>
+                </DockPanel>
+            </Grid>
+        </Grid>
+    </DockPanel>
+</UserControl>

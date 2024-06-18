@@ -1,0 +1,16 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\obj\Debug\Programa19 - Sobrecarga de Operadores.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\obj\Debug\Programa19 - Sobrecarga de Operadores.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\obj\Debug\Programa19 - Sobrecarga de Operadores.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\bin\Debug\Programa19 - Sobrecarga de Operadores.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\bin\Debug\Programa19 - Sobrecarga de Operadores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\bin\Debug\Programa19 - Sobrecarga de Operadores.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\obj\Debug\Programa19 - Sobrecarga de Operadores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga de Operadores\obj\Debug\Programa19 - Sobrecarga de Operadores.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\bin\Debug\Programa19 - Sobrecarga de Operadores.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\bin\Debug\Programa19 - Sobrecarga de Operadores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\bin\Debug\Programa19 - Sobrecarga de Operadores.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\obj\Debug\Programa19 - Sobrecarga de Operadores.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\obj\Debug\Programa19 - Sobrecarga de Operadores.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\obj\Debug\Programa19 - Sobrecarga de Operadores.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\obj\Debug\Programa19 - Sobrecarga de Operadores.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa19 - Sobrecarga Operadores(roto jaja)\obj\Debug\Programa19 - Sobrecarga de Operadores.pdb

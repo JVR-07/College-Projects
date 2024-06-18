@@ -1,0 +1,11 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\bin\Debug\Area_Triangulo.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\bin\Debug\Area_Triangulo.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\bin\Debug\Area_Triangulo.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.Form1.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Practica de Ejemplo\Area_Triangulo\obj\Debug\Area_Triangulo.pdb

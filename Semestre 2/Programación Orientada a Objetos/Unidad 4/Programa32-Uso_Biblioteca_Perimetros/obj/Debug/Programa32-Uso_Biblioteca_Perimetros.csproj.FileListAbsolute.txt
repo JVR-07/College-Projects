@@ -1,0 +1,11 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\bin\Debug\Programa32-Uso_Biblioteca_Perimetros.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\bin\Debug\Programa32-Uso_Biblioteca_Perimetros.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\bin\Debug\Programa32-Uso_Biblioteca_Perimetros.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\bin\Debug\Perimetros.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\bin\Debug\Perimetros.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\obj\Debug\Programa32-Uso_Biblioteca_Perimetros.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\obj\Debug\Programa32-Uso_Biblioteca_Perimetros.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\obj\Debug\Programa32-Uso_Biblioteca_Perimetros.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\obj\Debug\Programa32-Uso_Biblioteca_Perimetros.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\obj\Debug\Programa32-Uso_Biblioteca_Perimetros.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa32-Uso_Biblioteca_Perimetros\obj\Debug\Programa32-Uso_Biblioteca_Perimetros.pdb

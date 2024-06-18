@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\bin\Debug\Programa34-PracticaExcepción_IndiceFueraRango.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\bin\Debug\Programa34-PracticaExcepción_IndiceFueraRango.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\bin\Debug\Programa34-PracticaExcepción_IndiceFueraRango.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\obj\Debug\Programa34-PracticaExcepción_IndiceFueraRango.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\obj\Debug\Programa34-PracticaExcepción_IndiceFueraRango.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\obj\Debug\Programa34-PracticaExcepción_IndiceFueraRango.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\obj\Debug\Programa34-PracticaExcepción_IndiceFueraRango.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa34-PracticaExcepción_IndiceFueraRango\obj\Debug\Programa34-PracticaExcepción_IndiceFueraRango.pdb

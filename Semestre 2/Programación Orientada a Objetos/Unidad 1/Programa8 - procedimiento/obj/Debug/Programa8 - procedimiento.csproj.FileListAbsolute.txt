@@ -1,0 +1,16 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\bin\Debug\Programa8 - procedimiento.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\bin\Debug\Programa8 - procedimiento.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\bin\Debug\Programa8 - procedimiento.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\bin\Debug\Programa8 - procedimiento.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\bin\Debug\Programa8 - procedimiento.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\bin\Debug\Programa8 - procedimiento.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\Machado_Sanchez_Javier_U1\Programa8 - procedimiento\obj\Debug\Programa8 - procedimiento.pdb

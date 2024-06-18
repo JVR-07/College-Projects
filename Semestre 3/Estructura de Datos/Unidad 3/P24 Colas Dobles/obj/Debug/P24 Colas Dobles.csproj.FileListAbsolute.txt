@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\bin\Debug\P24 Colas Dobles.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\bin\Debug\P24 Colas Dobles.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\bin\Debug\P24 Colas Dobles.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\obj\Debug\P24 Colas Dobles.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\obj\Debug\P24 Colas Dobles.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\obj\Debug\P24 Colas Dobles.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\obj\Debug\P24 Colas Dobles.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P24 Colas Dobles\obj\Debug\P24 Colas Dobles.pdb

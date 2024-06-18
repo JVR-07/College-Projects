@@ -1,0 +1,160 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp">
+    
+    <!-- NavBar Normal Button Style -->
+    <Style x:Key="NavBarButton" 
+           TargetType="RadioButton">
+        <Setter Property="Height" Value="55"/>
+        <Setter Property="Margin" Value="0,0,0,5"/>
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="RadioButton">
+                    <Border Background="{TemplateBinding Background}" 
+                            BorderThickness="4,0,0,0"
+                            BorderBrush="{TemplateBinding BorderBrush}">
+                        <ContentPresenter HorizontalAlignment="Left" 
+                                          VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        
+        <!-- NavBar on hover Button Style-->
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Margin" Value="5,0,0,5"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="BorderBrush" Value="#88DEB0"/>
+            </Trigger>
+            
+            <!-- NavBar Activated Button Style -->
+            <Trigger Property="IsChecked" Value="True">
+                <Setter Property="Margin" Value="5,0,0,5"/>
+                <Setter Property="Foreground" Value="#88DEB0"/>
+                <Setter Property="BorderBrush" Value="#88DEB0"/>
+            </Trigger>
+        </Style.Triggers>        
+    </Style>
+    
+    <!-- NavBar Button Icon -->
+    <Style x:Key="NavBarButtonIcon" TargetType="Image">
+        <Setter Property="Width" Value="50"/>
+        <Setter Property="Height" Value="50"/>
+        <Setter Property="Margin" Value="4,0,7,0"/>
+    </Style>
+    
+    <!-- NavBar Button Text -->
+    <Style x:Key="NavBarButtonText"
+           TargetType="TextBlock">
+        <Setter Property="Foreground" Value="{Binding Path=Foreground, RelativeSource={RelativeSource AncestorType=RadioButton}}"/>
+        <Setter Property="FontFamily" Value="Montserrat"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontSize" Value="13.5"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+
+    <!-- Control Box Button Style -->
+    <Style x:Key="ControlBoxButton" 
+           TargetType="Button">
+        <Setter Property="Width" Value="40"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" 
+                            CornerRadius="4">
+                        <ContentPresenter HorizontalAlignment="Center" 
+                                          VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <!-- NavBar on hover Button Style-->
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Foreground" Value="{Binding Path=Tag, RelativeSource={RelativeSource AncestorType=Button}}"/>
+                <Setter Property="Background" Value="#88DEB0"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <!-- Control Box Toggle Button Style -->
+    <Style x:Key="ControlBoxToggleButton" 
+           TargetType="ToggleButton">
+        <Setter Property="Width" Value="40"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ToggleButton">
+                    <Border Background="{TemplateBinding Background}" 
+                            CornerRadius="4">
+                        <ContentPresenter HorizontalAlignment="Center" 
+                                          VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <!-- NavBar on hover Button Style-->
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Foreground" Value="{Binding Path=Tag, RelativeSource={RelativeSource AncestorType=Button}}"/>
+                <Setter Property="Background" Value="#88DEB0"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <!-- Control Box Button Icon Style-->
+    <Style x:Key="ControlBoxIconButton" TargetType="Image">
+        <Setter Property="Width" Value="14"/>
+        <Setter Property="Height" Value="14"/>
+    </Style>
+
+    <!-- HelMenu Normal Button Style -->
+    <Style x:Key="HelpMenuButton" 
+       TargetType="RadioButton">
+        <Setter Property="Height" Value="35"/>
+        <Setter Property="Margin" Value="10,0,10,0"/>
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="RadioButton">
+                    <Border Background="{TemplateBinding Background}" 
+                        BorderThickness="0,0,0,4"
+                        BorderBrush="{TemplateBinding BorderBrush}">
+                        <ContentPresenter HorizontalAlignment="Center" 
+                                          VerticalAlignment="Top"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <!-- NavBar on hover Button Style-->
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="BorderBrush" Value="#88DEB0"/>
+                <Setter Property="BorderThickness" Value="0,0,0,4"/>
+            </Trigger>
+
+            <!-- NavBar Activated Button Style -->
+            <Trigger Property="IsChecked" Value="True">
+                <Setter Property="Foreground" Value="#88DEB0"/>
+                <Setter Property="BorderBrush" Value="#88DEB0"/>
+                <Setter Property="BorderThickness" Value="0,0,0,4"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\bin\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\bin\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\bin\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\obj\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\obj\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\obj\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\obj\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P15 Manejando_Inversa_Procedimientos_Recursivos\obj\Debug\P15 Manejando_Inversa_Procedimientos_Recursivos.pdb

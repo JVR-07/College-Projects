@@ -1,0 +1,11 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\bin\Debug\Programa29-Uso_Libreria_Volumenes.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\bin\Debug\Programa29-Uso_Libreria_Volumenes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\bin\Debug\Programa29-Uso_Libreria_Volumenes.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\bin\Debug\lbrVolumenes.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\bin\Debug\lbrVolumenes.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\obj\Debug\Programa29-Uso_Libreria_Volumenes.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\obj\Debug\Programa29-Uso_Libreria_Volumenes.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\obj\Debug\Programa29-Uso_Libreria_Volumenes.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\obj\Debug\Programa29-Uso_Libreria_Volumenes.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\obj\Debug\Programa29-Uso_Libreria_Volumenes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa29-Uso_Libreria_Volumenes\obj\Debug\Programa29-Uso_Libreria_Volumenes.pdb

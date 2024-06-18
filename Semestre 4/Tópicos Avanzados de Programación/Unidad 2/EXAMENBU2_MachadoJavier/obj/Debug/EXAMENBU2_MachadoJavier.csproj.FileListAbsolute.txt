@@ -1,0 +1,14 @@
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\bin\Debug\EXAMENBU2_MachadoJavier.exe.config
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\bin\Debug\EXAMENBU2_MachadoJavier.exe
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\bin\Debug\EXAMENBU2_MachadoJavier.pdb
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\bin\Debug\CustomButtons.dll
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\bin\Debug\CustomButtons.pdb
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.csproj.AssemblyReference.cache
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.Form1.resources
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.Form2.resources
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.Properties.Resources.resources
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.csproj.GenerateResource.cache
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.csproj.CopyComplete
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.exe
+D:\JAVIER PC\Download\EXAMENBU2_MachadoJavier\obj\Debug\EXAMENBU2_MachadoJavier.pdb

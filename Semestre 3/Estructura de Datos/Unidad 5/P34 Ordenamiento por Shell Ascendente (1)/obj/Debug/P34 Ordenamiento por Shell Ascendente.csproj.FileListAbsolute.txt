@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\bin\Debug\P34 Ordenamiento por Shell Ascendente.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\bin\Debug\P34 Ordenamiento por Shell Ascendente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\bin\Debug\P34 Ordenamiento por Shell Ascendente.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\obj\Debug\P34 Ordenamiento por Shell Ascendente.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\obj\Debug\P34 Ordenamiento por Shell Ascendente.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\obj\Debug\P34 Ordenamiento por Shell Ascendente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P34 Ordenamiento por Shell Ascendente\obj\Debug\P34 Ordenamiento por Shell Ascendente.pdb

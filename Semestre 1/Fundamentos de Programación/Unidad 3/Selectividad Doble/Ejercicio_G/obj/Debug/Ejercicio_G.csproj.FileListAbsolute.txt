@@ -1,0 +1,11 @@
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\bin\Debug\Ejercicio_G.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\bin\Debug\Ejercicio_G.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\bin\Debug\Ejercicio_G.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.Form1.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.Properties.Resources.resources
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.csproj.GenerateResource.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Selectividad Doble\Ejercicio_G\obj\Debug\Ejercicio_G.pdb

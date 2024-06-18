@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa4 - CicloFor", "programa4 - CicloFor.csproj", "{945E2BDD-74CF-46DA-B272-4A7366CBC37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945E2BDD-74CF-46DA-B272-4A7366CBC37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945E2BDD-74CF-46DA-B272-4A7366CBC37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945E2BDD-74CF-46DA-B272-4A7366CBC37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945E2BDD-74CF-46DA-B272-4A7366CBC37D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28EDA55-0656-4ABD-ACA4-8538287222D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\bin\Debug\P45 Busqueda Binaria 2.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\bin\Debug\P45 Busqueda Binaria 2.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\bin\Debug\P45 Busqueda Binaria 2.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\obj\Debug\P45 Busqueda Binaria 2.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\obj\Debug\P45 Busqueda Binaria 2.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\obj\Debug\P45 Busqueda Binaria 2.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\obj\Debug\P45 Busqueda Binaria 2.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P45 Busqueda Binaria 2\obj\Debug\P45 Busqueda Binaria 2.pdb

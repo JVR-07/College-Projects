@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\bin\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\bin\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\bin\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\obj\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\obj\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\obj\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U2\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar\obj\Debug\P16 Manejo_Recursividad_Indirecta_Tabla_Multiplicar.pdb

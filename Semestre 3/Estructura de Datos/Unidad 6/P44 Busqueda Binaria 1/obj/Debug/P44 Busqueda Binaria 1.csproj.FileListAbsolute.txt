@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\obj\Debug\P44 Busqueda Binaria 1.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\obj\Debug\P44 Busqueda Binaria 1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\obj\Debug\P44 Busqueda Binaria 1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\bin\Debug\P44 Busqueda Binaria 1.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\bin\Debug\P44 Busqueda Binaria 1.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\bin\Debug\P44 Busqueda Binaria 1.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\obj\Debug\P44 Busqueda Binaria 1.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U6\P44 Busqueda Binaria 1\obj\Debug\P44 Busqueda Binaria 1.pdb

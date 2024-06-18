@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\bin\Debug\Ejemplo_PropagacionExcepciones.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\bin\Debug\Ejemplo_PropagacionExcepciones.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\bin\Debug\Ejemplo_PropagacionExcepciones.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\obj\Debug\Ejemplo_PropagacionExcepciones.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\obj\Debug\Ejemplo_PropagacionExcepciones.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\obj\Debug\Ejemplo_PropagacionExcepciones.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\obj\Debug\Ejemplo_PropagacionExcepciones.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejemplos\Ejemplo_PropagacionExcepciones\obj\Debug\Ejemplo_PropagacionExcepciones.pdb

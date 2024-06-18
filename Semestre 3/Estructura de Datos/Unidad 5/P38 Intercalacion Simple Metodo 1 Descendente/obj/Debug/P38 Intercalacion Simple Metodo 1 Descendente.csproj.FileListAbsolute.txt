@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\bin\Debug\P38 Intercalacion Simple Metodo 1 Descendente.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\bin\Debug\P38 Intercalacion Simple Metodo 1 Descendente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\bin\Debug\P38 Intercalacion Simple Metodo 1 Descendente.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\obj\Debug\P38 Intercalacion Simple Metodo 1 Descendente.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\obj\Debug\P38 Intercalacion Simple Metodo 1 Descendente.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\obj\Debug\P38 Intercalacion Simple Metodo 1 Descendente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P38 Intercalacion Simple Metodo 1 Descendente\obj\Debug\P38 Intercalacion Simple Metodo 1 Descendente.pdb

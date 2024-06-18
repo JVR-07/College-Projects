@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\bin\Debug\P9 Registros Anidados.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\bin\Debug\P9 Registros Anidados.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\bin\Debug\P9 Registros Anidados.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\obj\Debug\P9 Registros Anidados.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\obj\Debug\P9 Registros Anidados.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\obj\Debug\P9 Registros Anidados.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\obj\Debug\P9 Registros Anidados.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P9 Registros Anidados\obj\Debug\P9 Registros Anidados.pdb

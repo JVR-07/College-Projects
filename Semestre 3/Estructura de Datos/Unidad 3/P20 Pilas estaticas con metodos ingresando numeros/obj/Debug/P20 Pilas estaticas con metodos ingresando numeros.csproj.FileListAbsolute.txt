@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\bin\Debug\P20 Pilas estaticas con metodos ingresando numeros.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\bin\Debug\P20 Pilas estaticas con metodos ingresando numeros.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\bin\Debug\P20 Pilas estaticas con metodos ingresando numeros.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\obj\Debug\P20 Pilas estaticas con metodos ingresando numeros.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\obj\Debug\P20 Pilas estaticas con metodos ingresando numeros.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\obj\Debug\P20 Pilas estaticas con metodos ingresando numeros.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\obj\Debug\P20 Pilas estaticas con metodos ingresando numeros.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P20 Pilas estaticas con metodos ingresando numeros\obj\Debug\P20 Pilas estaticas con metodos ingresando numeros.pdb

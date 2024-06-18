@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P46 Metodo de Hash Mitad al cuadrado", "P46 Metodo de Hash Mitad al cuadrado.csproj", "{B30DB60E-EBE0-49D1-A7FD-942252A45016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30DB60E-EBE0-49D1-A7FD-942252A45016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30DB60E-EBE0-49D1-A7FD-942252A45016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30DB60E-EBE0-49D1-A7FD-942252A45016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30DB60E-EBE0-49D1-A7FD-942252A45016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948D12F6-08B1-4374-98CC-1291CA893F41}
+	EndGlobalSection
+EndGlobal

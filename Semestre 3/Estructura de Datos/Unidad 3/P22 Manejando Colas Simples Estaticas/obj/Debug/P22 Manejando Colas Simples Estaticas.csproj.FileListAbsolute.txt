@@ -1,0 +1,15 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\bin\Debug\P22 Manejando Colas Simples Estaticas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\bin\Debug\P22 Manejando Colas Simples Estaticas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\bin\Debug\P22 Manejando Colas Simples Estaticas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\bin\Debug\P22 Manejando Colas Simples Estaticas.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\bin\Debug\P22 Manejando Colas Simples Estaticas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\bin\Debug\P22 Manejando Colas Simples Estaticas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P22 Manejando Colas Simples Estaticas\obj\Debug\P22 Manejando Colas Simples Estaticas.pdb

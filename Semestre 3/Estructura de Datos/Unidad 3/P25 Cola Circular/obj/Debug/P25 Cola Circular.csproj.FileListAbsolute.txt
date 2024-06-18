@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\bin\Debug\P25 Cola Circular.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\bin\Debug\P25 Cola Circular.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\bin\Debug\P25 Cola Circular.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\obj\Debug\P25 Cola Circular.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\obj\Debug\P25 Cola Circular.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\obj\Debug\P25 Cola Circular.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\obj\Debug\P25 Cola Circular.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P25 Cola Circular\obj\Debug\P25 Cola Circular.pdb

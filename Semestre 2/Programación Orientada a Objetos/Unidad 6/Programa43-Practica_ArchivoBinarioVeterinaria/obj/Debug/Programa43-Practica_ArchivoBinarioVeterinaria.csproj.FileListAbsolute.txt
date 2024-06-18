@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\obj\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\obj\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\obj\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\bin\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\bin\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\bin\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\obj\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U6\U6_Machado_Sanchez_Javier\Programa43-Practica_ArchivoBinarioVeterinaria\obj\Debug\Programa43-Practica_ArchivoBinarioVeterinaria.pdb

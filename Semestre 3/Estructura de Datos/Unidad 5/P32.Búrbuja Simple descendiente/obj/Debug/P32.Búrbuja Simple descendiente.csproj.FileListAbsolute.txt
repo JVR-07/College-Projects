@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\bin\Debug\P32.Búrbuja Simple descendiente.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\bin\Debug\P32.Búrbuja Simple descendiente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\bin\Debug\P32.Búrbuja Simple descendiente.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\obj\Debug\P32.Búrbuja Simple descendiente.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\obj\Debug\P32.Búrbuja Simple descendiente.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\obj\Debug\P32.Búrbuja Simple descendiente.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U5\P32.Búrbuja Simple descendiente\obj\Debug\P32.Búrbuja Simple descendiente.pdb

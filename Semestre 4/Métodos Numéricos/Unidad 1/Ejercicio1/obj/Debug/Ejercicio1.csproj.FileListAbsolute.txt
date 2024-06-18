@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Metodos Numericos\Unidad 1\Ejercicio1\obj\Debug\Ejercicio1.pdb

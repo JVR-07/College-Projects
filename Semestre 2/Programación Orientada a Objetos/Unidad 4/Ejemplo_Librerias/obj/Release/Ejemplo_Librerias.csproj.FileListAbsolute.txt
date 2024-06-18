@@ -1,0 +1,13 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\Ejemplo_Librerias.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\Ejemplo_Librerias.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\Ejemplo_Librerias.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\CapturaDatos.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\lbrLibros.dll
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\CapturaDatos.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\bin\Release\lbrLibros.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\obj\Release\Ejemplo_Librerias.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\obj\Release\Ejemplo_Librerias.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\obj\Release\Ejemplo_Librerias.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\obj\Release\Ejemplo_Librerias.csproj.CopyComplete
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\obj\Release\Ejemplo_Librerias.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejemplos\Ejemplo_Librerias\obj\Release\Ejemplo_Librerias.pdb

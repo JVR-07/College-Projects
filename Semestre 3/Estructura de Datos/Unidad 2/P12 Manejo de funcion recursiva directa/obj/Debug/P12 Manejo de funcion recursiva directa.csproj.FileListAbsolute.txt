@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\bin\Debug\P12 Manejo de funcion recursiva directa.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\bin\Debug\P12 Manejo de funcion recursiva directa.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\bin\Debug\P12 Manejo de funcion recursiva directa.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\obj\Debug\P12 Manejo de funcion recursiva directa.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\obj\Debug\P12 Manejo de funcion recursiva directa.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\obj\Debug\P12 Manejo de funcion recursiva directa.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\obj\Debug\P12 Manejo de funcion recursiva directa.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P12 Manejo de funcion recursiva directa\obj\Debug\P12 Manejo de funcion recursiva directa.pdb

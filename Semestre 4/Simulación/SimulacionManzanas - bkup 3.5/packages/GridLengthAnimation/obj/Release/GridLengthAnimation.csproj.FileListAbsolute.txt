@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2022\Simulación\GridLengthAnimation\bin\Release\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\GridLengthAnimation\bin\Release\GridLengthAnimation.pdb
+D:\Documents\Visual Studio 2022\Simulación\GridLengthAnimation\obj\Release\GridLengthAnimation.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Simulación\GridLengthAnimation\obj\Release\GridLengthAnimation.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Simulación\GridLengthAnimation\obj\Release\GridLengthAnimation.dll
+D:\Documents\Visual Studio 2022\Simulación\GridLengthAnimation\obj\Release\GridLengthAnimation.pdb

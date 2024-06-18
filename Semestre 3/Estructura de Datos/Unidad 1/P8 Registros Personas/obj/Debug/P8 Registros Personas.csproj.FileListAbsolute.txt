@@ -1,0 +1,15 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\bin\Debug\P8 Registros Personas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\bin\Debug\P8 Registros Personas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\bin\Debug\P8 Registros Personas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\bin\Debug\P8 Registros Personas.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\bin\Debug\P8 Registros Personas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\bin\Debug\P8 Registros Personas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P8 Registros Personas\obj\Debug\P8 Registros Personas.pdb

@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\obj\Debug\P28 Lista Enlazada Nombres Ascendientes.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\obj\Debug\P28 Lista Enlazada Nombres Ascendientes.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\obj\Debug\P28 Lista Enlazada Nombres Ascendientes.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\bin\Debug\P28 Lista Enlazada Nombres Ascendientes.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\bin\Debug\P28 Lista Enlazada Nombres Ascendientes.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\bin\Debug\P28 Lista Enlazada Nombres Ascendientes.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\obj\Debug\P28 Lista Enlazada Nombres Ascendientes.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P28 Lista Enlazada Nombres Ascendientes\obj\Debug\P28 Lista Enlazada Nombres Ascendientes.pdb

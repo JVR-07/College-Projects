@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\bin\Debug\P13 Manejo_Recursividad_Indirecta.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\bin\Debug\P13 Manejo_Recursividad_Indirecta.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\bin\Debug\P13 Manejo_Recursividad_Indirecta.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\obj\Debug\P13 Manejo_Recursividad_Indirecta.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\obj\Debug\P13 Manejo_Recursividad_Indirecta.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\obj\Debug\P13 Manejo_Recursividad_Indirecta.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\obj\Debug\P13 Manejo_Recursividad_Indirecta.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P13 Manejo_Recursividad_Indirecta\obj\Debug\P13 Manejo_Recursividad_Indirecta.pdb

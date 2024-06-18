@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\bin\Debug\P6 Conjuntos Colores.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\bin\Debug\P6 Conjuntos Colores.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\bin\Debug\P6 Conjuntos Colores.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\obj\Debug\P6 Conjuntos Colores.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\obj\Debug\P6 Conjuntos Colores.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\obj\Debug\P6 Conjuntos Colores.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\obj\Debug\P6 Conjuntos Colores.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U1\P6 Conjuntos Colores\obj\Debug\P6 Conjuntos Colores.pdb

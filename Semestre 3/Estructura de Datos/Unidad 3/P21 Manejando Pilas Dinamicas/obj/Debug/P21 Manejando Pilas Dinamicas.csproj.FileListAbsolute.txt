@@ -1,0 +1,15 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\bin\Debug\P21 Manejando Pilas Dinamicas.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\bin\Debug\P21 Manejando Pilas Dinamicas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\bin\Debug\P21 Manejando Pilas Dinamicas.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\bin\Debug\P21 Manejando Pilas Dinamicas.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\bin\Debug\P21 Manejando Pilas Dinamicas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\bin\Debug\P21 Manejando Pilas Dinamicas.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U3\P21 Manejando Pilas Dinamicas\obj\Debug\P21 Manejando Pilas Dinamicas.pdb

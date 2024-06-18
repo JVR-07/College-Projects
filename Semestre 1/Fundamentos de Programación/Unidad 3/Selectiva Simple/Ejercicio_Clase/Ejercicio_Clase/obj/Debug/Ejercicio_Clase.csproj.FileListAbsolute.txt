@@ -1,0 +1,8 @@
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\bin\Debug\Ejercicio_Clase.exe.config
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\bin\Debug\Ejercicio_Clase.exe
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\bin\Debug\Ejercicio_Clase.pdb
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\obj\Debug\Ejercicio_Clase.csproj.AssemblyReference.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\obj\Debug\Ejercicio_Clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\obj\Debug\Ejercicio_Clase.csproj.CoreCompileInputs.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\obj\Debug\Ejercicio_Clase.exe
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase\Ejercicio_Clase\obj\Debug\Ejercicio_Clase.pdb

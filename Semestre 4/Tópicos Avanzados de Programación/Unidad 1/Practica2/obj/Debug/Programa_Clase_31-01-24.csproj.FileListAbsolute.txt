@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\bin\Debug\Programa_Clase_31-01-24.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\bin\Debug\Programa_Clase_31-01-24.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\bin\Debug\Programa_Clase_31-01-24.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\obj\Debug\Programa_Clase_31-01-24.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\obj\Debug\Programa_Clase_31-01-24.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\obj\Debug\Programa_Clase_31-01-24.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Programa_Clase_31-01-24\obj\Debug\Programa_Clase_31-01-24.pdb

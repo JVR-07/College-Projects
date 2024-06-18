@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\bin\Debug\Programa25 - Practica_Unidad3.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\bin\Debug\Programa25 - Practica_Unidad3.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\bin\Debug\Programa25 - Practica_Unidad3.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\obj\Debug\Programa25 - Practica_Unidad3.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\obj\Debug\Programa25 - Practica_Unidad3.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\obj\Debug\Programa25 - Practica_Unidad3.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\obj\Debug\Programa25 - Practica_Unidad3.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U3\Ejercicios_Clase\Programa25 - Practica_Unidad3\obj\Debug\Programa25 - Practica_Unidad3.pdb

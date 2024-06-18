@@ -1,0 +1,9 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\bin\Debug\Practica2_BotonesEnMovimiento.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\bin\Debug\Practica2_BotonesEnMovimiento.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\bin\Debug\Practica2_BotonesEnMovimiento.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\obj\Debug\Practica2_BotonesEnMovimiento.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\obj\Debug\Practica2_BotonesEnMovimiento.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\obj\Debug\Practica2_BotonesEnMovimiento.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\obj\Debug\Practica2_BotonesEnMovimiento.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\obj\Debug\Practica2_BotonesEnMovimiento.Program.resources
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica2_BotonesEnMovimiento\obj\Debug\Practica2_BotonesEnMovimiento.csproj.GenerateResource.cache

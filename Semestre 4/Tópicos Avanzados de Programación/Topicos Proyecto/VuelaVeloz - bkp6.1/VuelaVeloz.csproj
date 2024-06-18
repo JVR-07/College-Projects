@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8EF9712-3EDC-4E8F-AF41-2FA0DB285C3A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VuelaVeloz</RootNamespace>
+    <AssemblyName>VuelaVeloz</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlphaBlendTextBox">
+      <HintPath>packages\Lib_AlphaBlendTextBox\AlphaBlendTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomButtons">
+      <HintPath>packages\CustomElements\bin\Debug\CustomButtons.dll</HintPath>
+    </Reference>
+    <Reference Include="GradientPanel">
+      <HintPath>packages\GradientPanel 1.0\GradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAvion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvion.Designer.cs">
+      <DependentUpon>frmAvion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBases.Designer.cs">
+      <DependentUpon>frmBases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIniciarSesion.Designer.cs">
+      <DependentUpon>frmIniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaginaPrincipal.Designer.cs">
+      <DependentUpon>frmPaginaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPiloto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPiloto.Designer.cs">
+      <DependentUpon>frmPiloto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarse.Designer.cs">
+      <DependentUpon>frmRegistrarse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTripulante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTripulante.Designer.cs">
+      <DependentUpon>frmTripulante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVuelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVuelos.Designer.cs">
+      <DependentUpon>frmVuelos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAvion.resx">
+      <DependentUpon>frmAvion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBases.resx">
+      <DependentUpon>frmBases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIniciarSesion.resx">
+      <DependentUpon>frmIniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaginaPrincipal.resx">
+      <DependentUpon>frmPaginaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPiloto.resx">
+      <DependentUpon>frmPiloto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarse.resx">
+      <DependentUpon>frmRegistrarse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTripulante.resx">
+      <DependentUpon>frmTripulante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVuelos.resx">
+      <DependentUpon>frmVuelos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vuelos_Logo_DarkM_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tripulacion_Logo_DarkM_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Piloto_Logo_DarkM_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avion_Logo_DarkM_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Base_Logo_DarkM_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ayuda_Logo_DarkM_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GuestUser_Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VV_Logo_DarkMode_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VV_Logo_WhiteMode_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LateralBarButton_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_Icon_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contrasena_Logo_Beta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VuelaVeloz_Logoprovisional_-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

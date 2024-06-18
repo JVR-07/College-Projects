@@ -1,0 +1,16 @@
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\bin\Debug\M_Ejercicio1.exe.config
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\bin\Debug\M_Ejercicio1.exe
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\bin\Debug\M_Ejercicio1.pdb
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\obj\Debug\M_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\obj\Debug\M_Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\obj\Debug\M_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\obj\Debug\M_Ejercicio1.exe
+C:\Users\TECNM-ITT\Desktop\M_Ejercicio1\obj\Debug\M_Ejercicio1.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\bin\Debug\M_Ejercicio1.exe.config
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\bin\Debug\M_Ejercicio1.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\bin\Debug\M_Ejercicio1.pdb
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\obj\Debug\M_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\obj\Debug\M_Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\obj\Debug\M_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\obj\Debug\M_Ejercicio1.exe
+C:\Users\Javier PC\Documents\Visual Studio Proyects\Primer Semestre\Arreglos Bidimensionales\M_Ejercicio1\obj\Debug\M_Ejercicio1.pdb

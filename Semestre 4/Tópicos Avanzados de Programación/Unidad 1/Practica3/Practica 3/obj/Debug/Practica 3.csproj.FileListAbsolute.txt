@@ -1,0 +1,28 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\bin\Debug\Practica 3.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\bin\Debug\Practica 3.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\bin\Debug\Practica 3.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\obj\Debug\Practica 3.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Topicos Avanzados\Unidad 1\Practica 3\obj\Debug\Practica 3.pdb
+E:\Practica 3\bin\Debug\Practica 3.exe.config
+E:\Practica 3\bin\Debug\Practica 3.exe
+E:\Practica 3\bin\Debug\Practica 3.pdb
+E:\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+E:\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+E:\Practica 3\obj\Debug\Practica 3.exe
+E:\Practica 3\obj\Debug\Practica 3.pdb
+D:\Download\Practica 3\bin\Debug\Practica 3.exe.config
+D:\Download\Practica 3\bin\Debug\Practica 3.exe
+D:\Download\Practica 3\bin\Debug\Practica 3.pdb
+D:\Download\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+D:\Download\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+D:\Download\Practica 3\obj\Debug\Practica 3.exe
+D:\Download\Practica 3\obj\Debug\Practica 3.pdb
+J:\Practica 3\bin\Debug\Practica 3.exe.config
+J:\Practica 3\bin\Debug\Practica 3.exe
+J:\Practica 3\bin\Debug\Practica 3.pdb
+J:\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+J:\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+J:\Practica 3\obj\Debug\Practica 3.exe
+J:\Practica 3\obj\Debug\Practica 3.pdb

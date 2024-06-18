@@ -1,0 +1,16 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\bin\Debug\Programa14 - Clase Coche.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\bin\Debug\Programa14 - Clase Coche.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\bin\Debug\Programa14 - Clase Coche.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\bin\Debug\Programa14 - Clase Coche.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\bin\Debug\Programa14 - Clase Coche.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\bin\Debug\Programa14 - Clase Coche.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U2\Ejercicios clase\Programa14 - Clase Coche\obj\Debug\Programa14 - Clase Coche.pdb

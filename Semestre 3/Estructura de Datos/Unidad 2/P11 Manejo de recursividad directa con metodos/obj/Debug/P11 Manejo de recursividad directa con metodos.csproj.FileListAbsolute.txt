@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\bin\Debug\P11 Manejo de recursividad directa con metodos.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\bin\Debug\P11 Manejo de recursividad directa con metodos.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\bin\Debug\P11 Manejo de recursividad directa con metodos.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\obj\Debug\P11 Manejo de recursividad directa con metodos.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\obj\Debug\P11 Manejo de recursividad directa con metodos.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\obj\Debug\P11 Manejo de recursividad directa con metodos.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\obj\Debug\P11 Manejo de recursividad directa con metodos.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P11 Manejo de recursividad directa con metodos\obj\Debug\P11 Manejo de recursividad directa con metodos.pdb

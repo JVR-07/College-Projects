@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\bin\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\bin\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\bin\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\obj\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\obj\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\obj\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\obj\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\U5_Machado_Sanchez_Javier\Programa36-PracticaExcepción_ArgumentoFueradeRango\obj\Debug\Programa36-PracticaExcepción_ArgumentoFueradeRango.pdb

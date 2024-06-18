@@ -1,0 +1,78 @@
+﻿<UserControl x:Class="SimulacionManzanas.UserControls.WelcomePage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SimulacionManzanas.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="630" d:DesignWidth="1026">
+    <Grid>
+        <StackPanel>
+            <StackPanel>
+                <TextBlock Style="{StaticResource HomeText}" 
+                           FontSize="50" 
+                           TextAlignment="Center"
+                           Margin="0">
+                    ¡Bienvenido!
+                </TextBlock>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Style="{StaticResource HomeText}" 
+                           TextWrapping="Wrap"
+                           Margin="0">
+                    <LineBreak/> software está diseñado para simular e interpretar los resultados de
+                    un problema relacionado con la política de ventas de un vendedor.
+                </TextBlock>
+            </StackPanel>
+
+            <StackPanel>
+                <Label Style="{StaticResource HoverHomeTextEfect}" 
+                       Cursor="Hand"
+                       Visibility="Hidden">
+                    Leer el planteamiento del problema
+                </Label>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Style="{StaticResource HomeText}" 
+                           TextWrapping="Wrap"
+                           Margin="0">
+            Para llevar a cabo la simulación, el programa requiere generar cierta
+            cantidad de números pseudoaleatorios y someterlos a dos pruebas de
+            distribución de probabilidad.<LineBreak/>
+            Para acceder al tutorial de la aplicación, vaya a la sección "Ayuda" de
+            la barra lateral.
+            En caso de querer saltarse el tutorial, vaya directamente a la sección
+            "Generador".
+                </TextBlock>
+            </StackPanel>
+
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label x:Name="LblGoToHelpPage"
+                           Grid.Column="0" 
+                           Style="{StaticResource HoverHomeTextEfect}" 
+                           Cursor="Hand" 
+                           Margin="110,0,110,0"
+                           Visibility="Hidden">
+                        Ir a la sección Ayuda
+                    </Label>
+                    <Label x:Name="LblGoToGeneratorPage" 
+                           Grid.Column="1" 
+                           Style="{StaticResource HoverHomeTextEfect}" 
+                           Cursor="Hand" 
+                           Margin="80,0,80,0"
+                           Visibility="Hidden">
+                        Ir a la sección Generador
+                    </Label>
+                </Grid>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

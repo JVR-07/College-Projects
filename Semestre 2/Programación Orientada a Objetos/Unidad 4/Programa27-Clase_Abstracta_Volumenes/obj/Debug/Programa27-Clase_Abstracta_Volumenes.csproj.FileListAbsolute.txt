@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\bin\Debug\Programa27-Clase_Abstracta_Volumenes.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\bin\Debug\Programa27-Clase_Abstracta_Volumenes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\bin\Debug\Programa27-Clase_Abstracta_Volumenes.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\obj\Debug\Programa27-Clase_Abstracta_Volumenes.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\obj\Debug\Programa27-Clase_Abstracta_Volumenes.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\obj\Debug\Programa27-Clase_Abstracta_Volumenes.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\obj\Debug\Programa27-Clase_Abstracta_Volumenes.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U4\Ejercicios\Programa27-Clase_Abstracta_Volumenes\obj\Debug\Programa27-Clase_Abstracta_Volumenes.pdb

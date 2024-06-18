@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\bin\Debug\P10 Manejo de Procedimiento Recursivo Directo.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\bin\Debug\P10 Manejo de Procedimiento Recursivo Directo.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\bin\Debug\P10 Manejo de Procedimiento Recursivo Directo.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\obj\Debug\P10 Manejo de Procedimiento Recursivo Directo.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\obj\Debug\P10 Manejo de Procedimiento Recursivo Directo.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\obj\Debug\P10 Manejo de Procedimiento Recursivo Directo.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\obj\Debug\P10 Manejo de Procedimiento Recursivo Directo.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U2\P10 Manejo de Procedimiento Recursivo Directo\obj\Debug\P10 Manejo de Procedimiento Recursivo Directo.pdb

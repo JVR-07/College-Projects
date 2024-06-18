@@ -1,0 +1,7 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\bin\Debug\P1_Manejo_de_datos_primitivos.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\bin\Debug\P1_Manejo_de_datos_primitivos.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\bin\Debug\P1_Manejo_de_datos_primitivos.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\obj\Debug\P1_Manejo_de_datos_primitivos.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\obj\Debug\P1_Manejo_de_datos_primitivos.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\obj\Debug\P1_Manejo_de_datos_primitivos.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\Estructura de Datos\P1_Manejo_de_datos_primitivos\obj\Debug\P1_Manejo_de_datos_primitivos.pdb

@@ -1,0 +1,11 @@
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\bin\Debug\Ejercicio_Clase_SDoble.exe.config
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\bin\Debug\Ejercicio_Clase_SDoble.exe
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\bin\Debug\Ejercicio_Clase_SDoble.pdb
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.csproj.AssemblyReference.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.csproj.SuggestedBindingRedirects.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.Form1.resources
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.Properties.Resources.resources
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.csproj.GenerateResource.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.csproj.CoreCompileInputs.cache
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.exe
+C:\Users\TECNM-ITT\source\repos\Ejercicio_Clase_SDoble\obj\Debug\Ejercicio_Clase_SDoble.pdb

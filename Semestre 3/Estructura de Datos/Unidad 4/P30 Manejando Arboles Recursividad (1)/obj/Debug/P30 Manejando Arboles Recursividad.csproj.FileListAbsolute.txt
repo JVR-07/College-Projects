@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\bin\Debug\P30 Manejando Arboles Recursividad.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\bin\Debug\P30 Manejando Arboles Recursividad.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\bin\Debug\P30 Manejando Arboles Recursividad.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\obj\Debug\P30 Manejando Arboles Recursividad.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\obj\Debug\P30 Manejando Arboles Recursividad.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\obj\Debug\P30 Manejando Arboles Recursividad.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\obj\Debug\P30 Manejando Arboles Recursividad.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P30 Manejando Arboles Recursividad\obj\Debug\P30 Manejando Arboles Recursividad.pdb

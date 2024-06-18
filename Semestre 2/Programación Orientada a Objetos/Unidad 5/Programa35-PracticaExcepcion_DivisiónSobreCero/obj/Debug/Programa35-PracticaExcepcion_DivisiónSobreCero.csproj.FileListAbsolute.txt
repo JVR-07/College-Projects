@@ -1,0 +1,8 @@
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\bin\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.exe.config
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\bin\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\bin\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.pdb
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\obj\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.csproj.AssemblyReference.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\obj\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.csproj.SuggestedBindingRedirects.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\obj\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.csproj.CoreCompileInputs.cache
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\obj\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.exe
+D:\JAVIER PC\Documents\Visual Studio 2022\POO\POO U5\Ejercicios\Programa35-PracticaExcepcion_DivisiónSobreCero\obj\Debug\Programa35-PracticaExcepcion_DivisiónSobreCero.pdb

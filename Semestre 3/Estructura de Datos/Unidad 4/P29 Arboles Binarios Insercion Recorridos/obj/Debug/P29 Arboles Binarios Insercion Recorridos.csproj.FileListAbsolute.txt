@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\bin\Debug\P29 Arboles Binarios Insercion Recorridos.exe.config
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\bin\Debug\P29 Arboles Binarios Insercion Recorridos.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\bin\Debug\P29 Arboles Binarios Insercion Recorridos.pdb
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\obj\Debug\P29 Arboles Binarios Insercion Recorridos.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\obj\Debug\P29 Arboles Binarios Insercion Recorridos.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\obj\Debug\P29 Arboles Binarios Insercion Recorridos.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\obj\Debug\P29 Arboles Binarios Insercion Recorridos.exe
+D:\Documents\Visual Studio 2022\Estructura de Datos\U4\P29 Arboles Binarios Insercion Recorridos\obj\Debug\P29 Arboles Binarios Insercion Recorridos.pdb
