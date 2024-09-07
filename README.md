@@ -1,5 +1,5 @@
 
-![ITT Wallpaper](/source/wallpaper_itt.png)
+![ITT Wallpaper](/Resource/wallpaper_itt.png)
 
 # College Projects
 
