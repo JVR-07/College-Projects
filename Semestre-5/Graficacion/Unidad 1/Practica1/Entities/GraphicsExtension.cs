@@ -34,7 +34,7 @@ namespace Practica1.Entities
             Grap.SetTransform();
             System.Drawing.PointF aux_point = Point.Position.ToPointF;
             Grap.DrawEllipse(Pen, aux_point.X - 1, aux_point.Y - 1, 2, 2);
-            Grap.FillEllipse(new SolidBrush(Color.DarkBlue), aux_point.X - 1, aux_point.Y - 1, 2, 2);
+            Grap.FillEllipse(new SolidBrush(Pen.Color), aux_point.X - 1, aux_point.Y - 1, 2, 2);
             Grap.ResetTransform();
         }
 

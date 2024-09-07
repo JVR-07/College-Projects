@@ -47,7 +47,9 @@ namespace Practica1
 
         private void MainView_Load(object sender, EventArgs e)
         {
-            ClearCoordenateLabels();
+            ClearCoordinateLabels();
+            clrPoint.Color = pnlPointColor.BackColor;
+            clrLine.Color = pnlLineColor.BackColor;
         }
 
         private void pbxDrawZone_MouseMove(object sender, MouseEventArgs e)
@@ -60,7 +62,7 @@ namespace Practica1
 
         private void pbxDrawZone_MouseLeave(object sender, EventArgs e)
         {
-            ClearCoordenateLabels();
+            ClearCoordinateLabels();
         }
 
         private void pbxDrawZone_MouseClick(object sender, MouseEventArgs e)
@@ -94,7 +96,7 @@ namespace Practica1
             {
                 foreach(Entities.Point p in Points)
                 {
-                    e.Graphics.DrawPoint(new Pen(Color.DarkBlue, 1), p);
+                    e.Graphics.DrawPoint(new Pen(clrPoint.Color, 1), p);
                 }
             }
 
@@ -102,7 +104,7 @@ namespace Practica1
             {
                 foreach (Line line in Lines)
                 {
-                    e.Graphics.DrawLine(new Pen(Color.Black, 1), line);
+                    e.Graphics.DrawLine(new Pen(clrLine.Color, 1), line);
                  }
             }
 
@@ -120,23 +122,46 @@ namespace Practica1
         {
             if (!IsDrawingActive)
             {
-                IsDrawingActive = true;
-                Cursor = Cursors.Cross;
-                btnDrawLines.Text = "Stop Drawing";
+                SetDrawingEnableMode();
             }
             else if(IsDrawingActive)
             {
-                IsDrawingActive = false;
-                Cursor = Cursors.Default;
-                btnDrawLines.Text = "Start Drawing";
+                SetDrawingDisableMode();
             }
+        }
+
+        private void btnPointColor_Click(object sender, EventArgs e)
+        {
+            if(clrPoint.ShowDialog() == DialogResult.OK)
+            {
+                pnlPointColor.BackColor = clrPoint.Color;
+            }
+        }
+
+        private void btnLineColor_Click(object sender, EventArgs e)
+        {
+            if (clrLine.ShowDialog() == DialogResult.OK)
+            {
+                pnlLineColor.BackColor = clrLine.Color;
+            }
+        }
+
+        private void btnClearDraw_Click(object sender, EventArgs e)
+        {
+            Points.Clear();
+            Lines.Clear();
+            SetDrawingDisableMode();
+            CurrentPosition = null;
+            FirstPosition = null;
+            PointCounter = 0;
+            pbxDrawZone.Refresh();
         }
 
         #endregion
 
         #region Methods
 
-        private void ClearCoordenateLabels()
+        private void ClearCoordinateLabels()
         {
             lblX.Text = null; 
             lblY.Text = null;
@@ -152,6 +177,22 @@ namespace Practica1
             return pixel * 25.4f / Dpi;
         }
 
+        private void SetDrawingEnableMode()
+        {
+            IsDrawingActive = true;
+            Cursor = Cursors.Cross;
+            btnDrawLines.Text = "Stop Drawing";
+        }
+
+        private void SetDrawingDisableMode()
+        {
+            IsDrawingActive = false;
+            Cursor = Cursors.Default;
+            btnDrawLines.Text = "Start Drawing";
+        }
+
         #endregion
+
+        
     }
 }

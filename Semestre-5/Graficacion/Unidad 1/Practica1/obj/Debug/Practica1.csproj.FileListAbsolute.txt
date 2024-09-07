@@ -8,3 +8,13 @@ D:\Downloads\College-Projects\Semestre 5\Graficacion\Unidad 1\Practica1\obj\Debu
 D:\Downloads\College-Projects\Semestre 5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
 D:\Downloads\College-Projects\Semestre 5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.exe
 D:\Downloads\College-Projects\Semestre 5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.pdb
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\bin\Debug\Practica1.exe.config
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\bin\Debug\Practica1.exe
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\bin\Debug\Practica1.pdb
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.MainView.resources
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.exe
+D:\Downloads\College-Projects\Semestre-5\Graficacion\Unidad 1\Practica1\obj\Debug\Practica1.pdb
