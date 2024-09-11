@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Draw Polygons</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="text">
+        <p>Poligonos</p>
+        <canvas id="drawing" width="600" height="400" style="border:1px solid rgb(255,255,255)">
+            Tu navegador necesita actualizarse
+        </canvas>
+        <p>Seleccione un color para dibujar la figura</p>
+        <input type="color" id="colorPicker">
+        <p> Da click en algún botón para dibujar una figura </p>
+        <input type="button" class="button" value="Pentagon" id="pentagon" onclick="Pentagon()">
+        <input type="button" class="button" value="Hexagon" id="hexagon" onclick="Hexagon()">
+        <input type="button" class="button" value="Octagon" id="octagon" onclick="Octagon()">
+    </div>
+
+    <script src="logic.js"></script>
+</body>
+</html>
