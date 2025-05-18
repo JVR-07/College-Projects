@@ -1,6 +1,8 @@
 
 ![ITT Wallpaper](/Resource/wallpaper_itt.png)
 
+> ⚠ This repository was discontinued after the fifth semester. From that point on, each project has its own repository, and the most relevant ones are now public.
+
 # College Projects
 
 > This is a personal repository to store and search the projects I have done for the university.
